@@ -173,38 +173,38 @@
 
 #### Image Captioning
 * UCLA + Baidu [[Web](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)] [[Paper-arXiv1](http://arxiv.org/pdf/1410.1090)], [[Paper-arXiv2](http://arxiv.org/pdf/1412.6632)]
-  * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, and Alan L. Yuille, *Explain Images with Multimodal Recurrent Neural Networks*, arXiv:1410.1090
-  * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, and Alan L. Yuille, *Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)*, arXiv:1412.6632 / ICLR 2015
+  * *Explain Images with Multimodal Recurrent Neural Networks*, arXiv:1410.1090
+  * *Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)*, arXiv:1412.6632 / ICLR 2015
 * Univ. Toronto [[Paper](http://arxiv.org/pdf/1411.2539)] [[Web demo](http://deeplearning.cs.toronto.edu/i2t)]
-  * Ryan Kiros, Ruslan Salakhutdinov, and Richard S. Zemel, *Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models*, arXiv:1411.2539 / TACL 2015
+  * *Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models*, arXiv:1411.2539 / TACL 2015
 * Berkeley [[Web](http://jeffdonahue.com/lrcn/)] [[Paper](http://arxiv.org/pdf/1411.4389)]
-  * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, and Trevor Darrell, *Long-term Recurrent Convolutional Networks for Visual Recognition and Description*, arXiv:1411.4389 / CVPR 2015
+  *  *Long-term Recurrent Convolutional Networks for Visual Recognition and Description*, arXiv:1411.4389 / CVPR 2015
 * Google [[Paper](http://arxiv.org/pdf/1411.4555)]
   * Oriol Vinyals, Alexander Toshev, Samy Bengio, and Dumitru Erhan, *Show and Tell: A Neural Image Caption Generator*, arXiv:1411.4555 / CVPR 2015
 * Stanford [[Web]](http://cs.stanford.edu/people/karpathy/deepimagesent/) [[Paper]](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
-  * Andrej Karpathy and Li Fei-Fei, *Deep Visual-Semantic Alignments for Generating Image Description*, CVPR 2015
+  * *Deep Visual-Semantic Alignments for Generating Image Description*, CVPR 2015
 * Microsoft [[Paper](http://arxiv.org/pdf/1411.4952)]
-  * Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh Srivastava, Li Deng, Piotr Dollar, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, Lawrence Zitnick, and Geoffrey Zweig, *From Captions to Visual Concepts and Back*, arXiv:1411.4952 / CVPR 2015
+  * *From Captions to Visual Concepts and Back*, arXiv:1411.4952 / CVPR 2015
 * CMU + Microsoft [[Paper-arXiv](http://arxiv.org/pdf/1411.5654)], [[Paper-CVPR](http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn.pdf)]
-  * Xinlei Chen, and C. Lawrence Zitnick, *Learning a Recurrent Visual Representation for Image Caption Generation*
-  * Xinlei Chen, and C. Lawrence Zitnick, *Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation*, CVPR 2015
+  * *Learning a Recurrent Visual Representation for Image Caption Generation*
+  * *Mind’s Eye: A Recurrent Visual Representation for Image Caption Generation*, CVPR 2015
 * Univ. Montreal + Univ. Toronto [[Web](http://kelvinxu.github.io/projects/capgen.html)] [[Paper](http://www.cs.toronto.edu/~zemel/documents/captionAttn.pdf)]
-  * Kelvin Xu, Jimmy Lei Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard S. Zemel, and Yoshua Bengio, *Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention*, arXiv:1502.03044 / ICML 2015
+  *  *Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention*, arXiv:1502.03044 / ICML 2015
 * Idiap + EPFL + Facebook [[Paper](http://arxiv.org/pdf/1502.03671)]
-  * Remi Lebret, Pedro O. Pinheiro, and Ronan Collobert, *Phrase-based Image Captioning*, arXiv:1502.03671 / ICML 2015
+  * *Phrase-based Image Captioning*, arXiv:1502.03671 / ICML 2015
 * UCLA + Baidu [[Paper](http://arxiv.org/pdf/1504.06692)]
-  * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, and Alan L. Yuille, *Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images*, arXiv:1504.06692
+  * *Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images*, arXiv:1504.06692
 * MS + Berkeley
-  * Jacob Devlin, Saurabh Gupta, Ross Girshick, Margaret Mitchell, and C. Lawrence Zitnick, *Exploring Nearest Neighbor Approaches for Image Captioning*, arXiv:1505.04467 (Note: technically not RNN) [[Paper](http://arxiv.org/pdf/1505.04467.pdf)]
-  * Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, and Margaret Mitchell, *Language Models for Image Captioning: The Quirks and What Works*, arXiv:1505.01809 [[Paper](http://arxiv.org/pdf/1505.01809.pdf)]
+  * *Exploring Nearest Neighbor Approaches for Image Captioning*, arXiv:1505.04467 (Note: technically not RNN) [[Paper](http://arxiv.org/pdf/1505.04467.pdf)]
+  * *Language Models for Image Captioning: The Quirks and What Works*, arXiv:1505.01809 [[Paper](http://arxiv.org/pdf/1505.01809.pdf)]
 * Adelaide [[Paper](http://arxiv.org/pdf/1506.01144.pdf)]
-  * Qi Wu, Chunhua Shen, Anton van den Hengel, Lingqiao Liu, and Anthony Dick, *Image Captioning with an Intermediate Attributes Layer*, arXiv:1506.01144
+  * *Image Captioning with an Intermediate Attributes Layer*, arXiv:1506.01144
 * Tilburg [[Paper](http://arxiv.org/pdf/1506.03694.pdf)]
-  * Grzegorz Chrupala, Akos Kadar, and Afra Alishahi, *Learning language through pictures*, arXiv:1506.03694
+  * *Learning language through pictures*, arXiv:1506.03694
 * Univ. Montreal [[Paper](http://arxiv.org/pdf/1507.01053.pdf)]
-  * Kyunghyun Cho, Aaron Courville, and Yoshua Bengio, *Describing Multimedia Content using Attention-based Encoder-Decoder Networks*, arXiv:1507.01053
+  * *Describing Multimedia Content using Attention-based Encoder-Decoder Networks*, arXiv:1507.01053
 * Cornell [[Paper](http://arxiv.org/pdf/1508.02091.pdf)]
-  * Jack Hessel, Nicolas Savva, and Michael J. Wilber, *Image Representations and New Domains in Neural Image Captioning*, arXiv:1508.02091
+  * *Image Representations and New Domains in Neural Image Captioning*, arXiv:1508.02091
 
 
 #### Video Captioning
