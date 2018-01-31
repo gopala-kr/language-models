@@ -41,41 +41,41 @@
 #### Structure
 
 * **Bi-directional RNN [[Paper](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)]**
-  * Mike Schuster and Kuldip K. Paliwal, *Bidirectional Recurrent Neural Networks*, Trans. on Signal Processing 1997
+  * *Bidirectional Recurrent Neural Networks*, Trans. on Signal Processing 1997
 * **Multi-dimensional RNN [[Paper](http://arxiv.org/pdf/0705.2011.pdf)]**
-  * Alex Graves, Santiago Fernandez, and Jurgen Schmidhuber, *Multi-Dimensional Recurrent Neural Networks*, ICANN 2007
+  * *Multi-Dimensional Recurrent Neural Networks*, ICANN 2007
 * **GFRNN [[Paper-arXiv](http://arxiv.org/pdf/1502.02367)] [[Paper-ICML](http://jmlr.org/proceedings/papers/v37/chung15.pdf)]** [[Supplementary](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)]
-  * Junyoung Chung, Caglar Gulcehre, Kyunghyun Cho, Yoshua Bengio, *Gated Feedback Recurrent Neural Networks*, arXiv:1502.02367 / ICML 2015
+  * *Gated Feedback Recurrent Neural Networks*, arXiv:1502.02367 / ICML 2015
 * **Tree-Structured RNNs**
-  * Kai Sheng Tai, Richard Socher, and Christopher D. Manning, *Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks*, arXiv:1503.00075 / ACL 2015 [[Paper](http://arxiv.org/pdf/1503.00075)]
-  * Samuel R. Bowman, Christopher D. Manning, and Christopher Potts, *Tree-structured composition in neural networks without tree-structured architectures*, arXiv:1506.04834 [[Paper](http://arxiv.org/pdf/1506.04834)]
+  * *Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks*, arXiv:1503.00075 / ACL 2015 [[Paper](http://arxiv.org/pdf/1503.00075)]
+  * *Tree-structured composition in neural networks without tree-structured architectures*, arXiv:1506.04834 [[Paper](http://arxiv.org/pdf/1506.04834)]
 * **Grid LSTM [[Paper](http://arxiv.org/pdf/1507.01526)] [[Code](https://github.com/coreylynch/grid-lstm)]**
-  * Nal Kalchbrenner, Ivo Danihelka, and Alex Graves, *Grid Long Short-Term Memory*, arXiv:1507.01526
+  * *Grid Long Short-Term Memory*, arXiv:1507.01526
 * **Segmental RNN [[Paper](http://arxiv.org/pdf/1511.06018v2.pdf)]**
-  * Lingpeng Kong, Chris Dyer, Noah Smith, "Segmental Recurrent Neural Networks", ICLR 2016.
+  * "Segmental Recurrent Neural Networks", ICLR 2016.
 * **Seq2seq for Sets [[Paper](http://arxiv.org/pdf/1511.06391v4.pdf)]**
-  * Oriol Vinyals, Samy Bengio, Manjunath Kudlur, "Order Matters: Sequence to sequence for sets", ICLR 2016.
+  * "Order Matters: Sequence to sequence for sets", ICLR 2016.
 * **Hierarchical Recurrent Neural Networks [[Paper](http://arxiv.org/abs/1609.01704)]**
-  * Junyoung Chung, Sungjin Ahn, Yoshua Bengio, "Hierarchical Multiscale Recurrent Neural Networks", arXiv:1609.01704
+  * "Hierarchical Multiscale Recurrent Neural Networks", arXiv:1609.01704
 
 #### Memory
 
 * **LSTM [[Paper](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)]**
-  * Sepp Hochreiter and Jurgen Schmidhuber, *Long Short-Term Memory*, Neural Computation 1997
+  * *Long Short-Term Memory*, Neural Computation 1997
 * **GRU (Gated Recurrent Unit) [[Paper](http://arxiv.org/pdf/1406.1078.pdf)]**
-  * Kyunghyun Cho, Bart van Berrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio, *Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation*, arXiv:1406.1078 / EMNLP 2014
+  * *Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation*, arXiv:1406.1078 / EMNLP 2014
 * **NTM [[Paper](http://arxiv.org/pdf/1410.5401)]**
-  * A.Graves, G. Wayne, and I. Danihelka., *Neural Turing Machines,* arXiv preprint arXiv:1410.5401
+  * *Neural Turing Machines,* arXiv preprint arXiv:1410.5401
 * **Neural GPU [[Paper](http://arxiv.org/pdf/1511.08228.pdf)]**
-  * Łukasz Kaiser, Ilya Sutskever, arXiv:1511.08228 / ICML 2016 (under review)
+  * arXiv:1511.08228 / ICML 2016 (under review)
 * **Memory Network [[Paper](http://arxiv.org/pdf/1410.3916)]**
-  * Jason Weston, Sumit Chopra, Antoine Bordes, *Memory Networks,* arXiv:1410.3916
+  * *Memory Networks,* arXiv:1410.3916
 * **Pointer Network [[Paper](http://arxiv.org/pdf/1506.03134)]**
-  * Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly, *Pointer Networks*, arXiv:1506.03134 / NIPS 2015
+  * *Pointer Networks*, arXiv:1506.03134 / NIPS 2015
 * **Deep Attention Recurrent Q-Network [[Paper](http://arxiv.org/abs/1512.01693)]**
-  * Ivan Sorokin, Alexey Seleznev, Mikhail Pavlov, Aleksandr Fedorov, Anastasiia Ignateva, *Deep Attention Recurrent Q-Network* , arXiv:1512.01693
+  *  *Deep Attention Recurrent Q-Network* , arXiv:1512.01693
 * **Dynamic Memory Networks [[Paper](http://arxiv.org/abs/1506.07285)]**
-  * Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher, "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing", arXiv:1506.07285
+  * "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing", arXiv:1506.07285
 
 
 ## Applications
