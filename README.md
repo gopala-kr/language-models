@@ -209,50 +209,50 @@
 
 #### Video Captioning
 * Berkeley [[Web](http://jeffdonahue.com/lrcn/)] [[Paper](http://arxiv.org/pdf/1411.4389)]
-  * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, and Trevor Darrell, *Long-term Recurrent Convolutional Networks for Visual Recognition and Description*, arXiv:1411.4389 / CVPR 2015
+  *  *Long-term Recurrent Convolutional Networks for Visual Recognition and Description*, arXiv:1411.4389 / CVPR 2015
 * UT Austin + UML + Berkeley [[Paper](http://arxiv.org/pdf/1412.4729)]
-  * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, and Kate Saenko, *Translating Videos to Natural Language Using Deep Recurrent Neural Networks*, arXiv:1412.4729
+  * *Translating Videos to Natural Language Using Deep Recurrent Neural Networks*, arXiv:1412.4729
 * Microsoft [[Paper](http://arxiv.org/pdf/1505.01861)]
-  * Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, and Yong Rui, *Joint Modeling Embedding and Translation to Bridge Video and Language*, arXiv:1505.01861
+  * *Joint Modeling Embedding and Translation to Bridge Video and Language*, arXiv:1505.01861
 * UT Austin + Berkeley + UML [[Paper](http://arxiv.org/pdf/1505.00487)]
-  * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, and Kate Saenko, *Sequence to Sequence--Video to Text*, arXiv:1505.00487
+  * *Sequence to Sequence--Video to Text*, arXiv:1505.00487
 * Univ. Montreal + Univ. Sherbrooke [[Paper](http://arxiv.org/pdf/1502.08029.pdf)]
-  * Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, and Aaron Courville, *Describing Videos by Exploiting Temporal Structure*, arXiv:1502.08029
+  * *Describing Videos by Exploiting Temporal Structure*, arXiv:1502.08029
 * MPI + Berkeley [[Paper](http://arxiv.org/pdf/1506.01698.pdf)]
-  * Anna Rohrbach, Marcus Rohrbach, and Bernt Schiele, *The Long-Short Story of Movie Description*, arXiv:1506.01698
+  * *The Long-Short Story of Movie Description*, arXiv:1506.01698
 * Univ. Toronto + MIT [[Paper](http://arxiv.org/pdf/1506.06724.pdf)]
-  * Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, and Sanja Fidler, *Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books*, arXiv:1506.06724
+  * *Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books*, arXiv:1506.06724
 * Univ. Montreal [[Paper](http://arxiv.org/pdf/1507.01053.pdf)]
-  * Kyunghyun Cho, Aaron Courville, and Yoshua Bengio, *Describing Multimedia Content using Attention-based Encoder-Decoder Networks*, arXiv:1507.01053
+  * *Describing Multimedia Content using Attention-based Encoder-Decoder Networks*, arXiv:1507.01053
 * Zhejiang Univ. + UTS [[Paper](http://arxiv.org/abs/1511.03476)]
-  * Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang, *Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning*, arXiv:1511.03476
+  * *Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning*, arXiv:1511.03476
 * Univ. Montreal + NYU + IBM [[Paper](http://arxiv.org/pdf/1511.04590.pdf)]
-  * Li Yao, Nicolas Ballas, Kyunghyun Cho, John R. Smith, and Yoshua Bengio, *Empirical performance upper bounds for image and video captioning*, arXiv:1511.04590
+  * *Empirical performance upper bounds for image and video captioning*, arXiv:1511.04590
 
 
 #### Visual Question Answering
 
 * Virginia Tech. + MSR [[Web](http://www.visualqa.org/)] [[Paper](http://arxiv.org/pdf/1505.00468)]
-  * Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, and Devi Parikh, *VQA: Visual Question Answering*, arXiv:1505.00468 / CVPR 2015 SUNw:Scene Understanding workshop
+  * *VQA: Visual Question Answering*, arXiv:1505.00468 / CVPR 2015 SUNw:Scene Understanding workshop
 * MPI + Berkeley [[Web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/)] [[Paper](http://arxiv.org/pdf/1505.01121)]
-  * Mateusz Malinowski, Marcus Rohrbach, and Mario Fritz, *Ask Your Neurons: A Neural-based Approach to Answering Questions about Images*, arXiv:1505.01121
+  * *Ask Your Neurons: A Neural-based Approach to Answering Questions about Images*, arXiv:1505.01121
 * Univ. Toronto [[Paper](http://arxiv.org/pdf/1505.02074)] [[Dataset](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)]
-  * Mengye Ren, Ryan Kiros, and Richard Zemel, *Exploring Models and Data for Image Question Answering*, arXiv:1505.02074 / ICML 2015 deep learning workshop
+  * *Exploring Models and Data for Image Question Answering*, arXiv:1505.02074 / ICML 2015 deep learning workshop
 * Baidu + UCLA [[Paper](http://arxiv.org/pdf/1505.05612)] [[Dataset]()]
-  * Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, and Wei Xu, *Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering*, arXiv:1505.05612 / NIPS 2015
+  * *Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering*, arXiv:1505.05612 / NIPS 2015
 * SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
-  * Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
+  * *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
 * UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
-  * Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
+  * *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
 * Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
-  * Hyeonwoo Noh and Bohyung Han, *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
+  * *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
 * SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
-  * Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325
+  * *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325
 * Video QA
   * CMU + UTS [[paper](http://arxiv.org/abs/1511.04670)]
-    * Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, Uncovering Temporal Context for Video Question and Answering, arXiv:1511.04670
+    * Uncovering Temporal Context for Video Question and Answering, arXiv:1511.04670
   * KIT + MIT + Univ. Toronto [[Paper](http://arxiv.org/abs/1512.02902)] [[Dataset](http://movieqa.cs.toronto.edu/home/)]
-    * Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, MovieQA: Understanding Stories in Movies through Question-Answering, arXiv:1512.02902
+    * MovieQA: Understanding Stories in Movies through Question-Answering, arXiv:1512.02902
 
 
 #### Turing Machines
