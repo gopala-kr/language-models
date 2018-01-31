@@ -122,50 +122,50 @@
   * *Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism*, arXiv:1601.01073
 
 #### Conversation Modeling
-* Lifeng Shang, Zhengdong Lu, and Hang Li, *Neural Responding Machine for Short-Text Conversation*, arXiv:1503.02364 / ACL 2015 [[Paper](http://arxiv.org/pdf/1503.02364)]
-* Oriol Vinyals and Quoc V. Le, *A Neural Conversational Model*, arXiv:1506.05869 [[Paper](http://arxiv.org/pdf/1506.05869)]
-* Ryan Lowe, Nissan Pow, Iulian V. Serban, and Joelle Pineau, *The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems*, arXiv:1506.08909 [[Paper](http://arxiv.org/pdf/1506.08909)]
-* Jesse Dodge, Andreea Gane, Xiang Zhang, Antoine Bordes, Sumit Chopra, Alexander Miller, Arthur Szlam, and Jason Weston, *Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems*, arXiv:1511.06931 [[Paper](http://arxiv.org/pdf/1511.06931)]
-* Jason Weston, *Dialog-based Language Learning*, arXiv:1604.06045, [[Paper](http://arxiv.org/pdf/1604.06045)]
-* Antoine Bordes and Jason Weston, *Learning End-to-End Goal-Oriented Dialog*, arXiv:1605.07683 [[Paper](http://arxiv.org/pdf/1605.07683)]
+* *Neural Responding Machine for Short-Text Conversation*, arXiv:1503.02364 / ACL 2015 [[Paper](http://arxiv.org/pdf/1503.02364)]
+* *A Neural Conversational Model*, arXiv:1506.05869 [[Paper](http://arxiv.org/pdf/1506.05869)]
+* *The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems*, arXiv:1506.08909 [[Paper](http://arxiv.org/pdf/1506.08909)]
+* *Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems*, arXiv:1511.06931 [[Paper](http://arxiv.org/pdf/1511.06931)]
+* *Dialog-based Language Learning*, arXiv:1604.06045, [[Paper](http://arxiv.org/pdf/1604.06045)]
+* *Learning End-to-End Goal-Oriented Dialog*, arXiv:1605.07683 [[Paper](http://arxiv.org/pdf/1605.07683)]
 
 #### Question Answering
 * FAIR
-  * Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, and Alexander M. Rush, *Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks*, arXiv:1502.05698 [[Web](https://research.facebook.com/researchers/1543934539189348)] [[Paper](http://arxiv.org/pdf/1502.05698.pdf)]
-  * Antoine Bordes, Nicolas Usunier, Sumit Chopra, and Jason Weston, *Simple Question answering with Memory Networks*, arXiv:1506.02075 [[Paper](http://arxiv.org/abs/1506.02075)]
-  * Felix Hill, Antoine Bordes, Sumit Chopra, Jason Weston, "The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations", ICLR 2016 [[Paper](http://arxiv.org/abs/1511.02301)]
+  * *Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks*, arXiv:1502.05698 [[Web](https://research.facebook.com/researchers/1543934539189348)] [[Paper](http://arxiv.org/pdf/1502.05698.pdf)]
+  * *Simple Question answering with Memory Networks*, arXiv:1506.02075 [[Paper](http://arxiv.org/abs/1506.02075)]
+  * "The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations", ICLR 2016 [[Paper](http://arxiv.org/abs/1511.02301)]
 * DeepMind + Oxford [[Paper](http://arxiv.org/pdf/1506.03340.pdf)]
-  * Karl M. Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom, *Teaching Machines to Read and Comprehend*, arXiv:1506.03340 / NIPS 2015
+  * *Teaching Machines to Read and Comprehend*, arXiv:1506.03340 / NIPS 2015
 * MetaMind [[Paper](http://arxiv.org/pdf/1506.07285.pdf)]
-  * Ankit Kumar, Ozan Irsoy, Jonathan Su, James Bradbury, Robert English, Brian Pierce, Peter Ondruska, Mohit Iyyer, Ishaan Gulrajani, and Richard Socher, *Ask Me Anything: Dynamic Memory Networks for Natural Language Processing*, arXiv:1506.07285
+  * *Ask Me Anything: Dynamic Memory Networks for Natural Language Processing*, arXiv:1506.07285
 
 ### Computer Vision
 
 #### Object Recognition
-* Pedro Pinheiro and Ronan Collobert, *Recurrent Convolutional Neural Networks for Scene Labeling*, ICML 2014 [[Paper](http://jmlr.org/proceedings/papers/v32/pinheiro14.pdf)]
-* Ming Liang and Xiaolin Hu, *Recurrent Convolutional Neural Network for Object Recognition*, CVPR 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liang_Recurrent_Convolutional_Neural_2015_CVPR_paper.pdf)]
-* Wonmin Byeon, Thomas Breuel, Federico Raue1, and Marcus Liwicki1, *Scene Labeling with LSTM Recurrent Neural Networks*, CVPR 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)]
-* Mircea Serban Pavel, Hannes Schulz, and Sven Behnke, *Recurrent Convolutional Neural Networks for Object-Class Segmentation of RGB-D Video*, IJCNN 2015 [[Paper](http://www.ais.uni-bonn.de/papers/IJCNN_2015_Pavel.pdf)]
-* Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su, Dalong Du, Chang Huang, and Philip H. S. Torr, *Conditional Random Fields as Recurrent Neural Networks*, arXiv:1502.03240 [[Paper](http://arxiv.org/pdf/1502.03240)]
-* Xiaodan Liang, Xiaohui Shen, Donglai Xiang, Jiashi Feng, Liang Lin, and Shuicheng Yan, *Semantic Object Parsing with Local-Global Long Short-Term Memory*, arXiv:1511.04510 [[Paper](http://arxiv.org/pdf/1511.04510.pdf)]
-* Sean Bell, C. Lawrence Zitnick, Kavita Bala, and Ross Girshick, *Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks*, arXiv:1512.04143 / ICCV 2015 workshop [[Paper](http://arxiv.org/pdf/1512.04143)]
+* *Recurrent Convolutional Neural Networks for Scene Labeling*, ICML 2014 [[Paper](http://jmlr.org/proceedings/papers/v32/pinheiro14.pdf)]
+* *Recurrent Convolutional Neural Network for Object Recognition*, CVPR 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liang_Recurrent_Convolutional_Neural_2015_CVPR_paper.pdf)]
+* *Scene Labeling with LSTM Recurrent Neural Networks*, CVPR 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)]
+* *Recurrent Convolutional Neural Networks for Object-Class Segmentation of RGB-D Video*, IJCNN 2015 [[Paper](http://www.ais.uni-bonn.de/papers/IJCNN_2015_Pavel.pdf)]
+*  *Conditional Random Fields as Recurrent Neural Networks*, arXiv:1502.03240 [[Paper](http://arxiv.org/pdf/1502.03240)]
+* *Semantic Object Parsing with Local-Global Long Short-Term Memory*, arXiv:1511.04510 [[Paper](http://arxiv.org/pdf/1511.04510.pdf)]
+* *Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks*, arXiv:1512.04143 / ICCV 2015 workshop [[Paper](http://arxiv.org/pdf/1512.04143)]
 
 #### Visual Tracking
-* Quan Gan, Qipeng Guo, Zheng Zhang, and Kyunghyun Cho, *First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks*, arXiv:1511.06425 [[Paper](http://arxiv.org/pdf/1511.06425)]
+* *First Step toward Model-Free, Anonymous Object Tracking with Recurrent Neural Networks*, arXiv:1511.06425 [[Paper](http://arxiv.org/pdf/1511.06425)]
 
 
 #### Image Generation
-* Karol Gregor, Ivo Danihelka, Alex Graves, Danilo J. Rezende, and Daan Wierstra, *DRAW: A Recurrent Neural Network for Image Generation,* ICML 2015 [[Paper](http://arxiv.org/pdf/1502.04623)]
-* Angeliki Lazaridou, Dat T. Nguyen, R. Bernardi, and M. Baroni, *Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation,* arXiv:1506.03500 [[Paper](http://arxiv.org/pdf/1506.03500)]
-* Lucas Theis and Matthias Bethge, *Generative Image Modeling Using Spatial LSTMs,* arXiv:1506.03478 / NIPS 2015 [[Paper](http://arxiv.org/pdf/1506.03478)]
-* Aaron van den Oord, Nal Kalchbrenner, and Koray Kavukcuoglu, *Pixel Recurrent Neural Networks,* arXiv:1601.06759 [[Paper](http://arxiv.org/abs/1601.06759)]
+* *DRAW: A Recurrent Neural Network for Image Generation,* ICML 2015 [[Paper](http://arxiv.org/pdf/1502.04623)]
+* *Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation,* arXiv:1506.03500 [[Paper](http://arxiv.org/pdf/1506.03500)]
+* *Generative Image Modeling Using Spatial LSTMs,* arXiv:1506.03478 / NIPS 2015 [[Paper](http://arxiv.org/pdf/1506.03478)]
+* *Pixel Recurrent Neural Networks,* arXiv:1601.06759 [[Paper](http://arxiv.org/abs/1601.06759)]
 
 #### Video Analysis
 
 * Univ. Toronto [[paper](http://arxiv.org/abs/1502.04681)]
-  * Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov, *Unsupervised Learning of Video Representations using LSTMs*, arXiv:1502.04681 / ICML 2015
+  * *Unsupervised Learning of Video Representations using LSTMs*, arXiv:1502.04681 / ICML 2015
 * Univ. Cambridge [[paper](http://arxiv.org/abs/1511.06309)]
-  * Viorica Patraucean, Ankur Handa, Roberto Cipolla, *Spatio-temporal video autoencoder with differentiable memory*, arXiv:1511.06309
+  * *Spatio-temporal video autoencoder with differentiable memory*, arXiv:1511.06309
 
 
 
