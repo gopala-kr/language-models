@@ -34,6 +34,9 @@
 * [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019), arXiv:1506.00019
 * [Visualizing and Understanding Recurrent Networks](http://arxiv.org/pdf/1506.02078), arXiv:1506.02078
 * [An Empirical Exploration of Recurrent Network Architectures](http://jmlr.org/proceedings/papers/v37/jozefowicz15.pdf), ICML, 2015.
+- Recent Advances in Recurrent Neural Networks. 2018. [[arXiv](https://arxiv.org/abs/1801.01078v3)]
+- From Nodes to Networks: Evolving Recurrent Neural Networks. 2018. [[arXiv](https://arxiv.org/abs/1803.04439v2)]
+- The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches. 2018. [[arXiv](https://arxiv.org/abs/1803.01164v1)]
 
 
 ### Architectures
