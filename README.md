@@ -37,7 +37,9 @@
 - Recent Advances in Recurrent Neural Networks. 2018. [[arXiv](https://arxiv.org/abs/1801.01078v3)]
 - From Nodes to Networks: Evolving Recurrent Neural Networks. 2018. [[arXiv](https://arxiv.org/abs/1803.04439v2)]
 - The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches. 2018. [[arXiv](https://arxiv.org/abs/1803.01164v1)]
-
+- [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/ftp/arxiv/papers/1708/1708.05148.pdf)
+- [Recent Trends in Deep Learning Based
+Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 
 ### Architectures
 
