@@ -1,0 +1,15 @@
+
+#### Turing Machines
+* *Neural Turing Machines,* arXiv preprint arXiv:1410.5401 [[Paper](http://arxiv.org/pdf/1410.5401)]
+* *Memory Networks,* arXiv:1410.3916 [[Paper](http://arxiv.org/pdf/1410.3916)]
+* *Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets*, arXiv:1503.01007 / NIPS 2015 [[Paper](http://arxiv.org/pdf/1503.01007)]
+* *End-To-End Memory Networks*, arXiv:1503.08895 / NIPS 2015 [[Paper](http://arxiv.org/pdf/1503.08895)]
+* *Reinforcement Learning Neural Turing Machines,* arXiv:1505.00521 [[Paper](http://arxiv.org/pdf/1505.00521)]
+* *Recurrent Neural Networks with External Memory for Language Understanding*, arXiv:1506.00195 [[Paper](http://arxiv.org/pdf/1506.00195.pdf)]
+* *A Deep Memory-based Architecture for Sequence-to-Sequence Learning*, arXiv:1506.06442 [[Paper](http://arxiv.org/pdf/1506.06442.pdf)]
+* A*Neural Programmer: Inducing Latent Programs with Gradient Descent*, arXiv:1511.04834 [[Paper](http://arxiv.org/pdf/1511.04834.pdf)]
+* *Neural Programmer-Interpreters*, arXiv:1511.06279 [[Paper](http://arxiv.org/pdf/1511.06279.pdf)]
+* *Neural Random-Access Machines*, arXiv:1511.06392 [[Paper](http://arxiv.org/pdf/1511.06392.pdf)]
+* Łukasz Kaiser and Ilya Sutskever, *Neural GPUs Learn Algorithms*, arXiv:1511.08228 [[Paper](http://arxiv.org/pdf/1511.08228.pdf)]
+* *Skip-Thought Memory Networks*, arXiv:1511.6420 [[Paper](https://pdfs.semanticscholar.org/6b9f/0d695df0ce01d005eb5aa69386cb5fbac62a.pdf)]
+* *Learning Simple Algorithms from Examples*, arXiv:1511.07275 [[Paper](http://arxiv.org/pdf/1511.07275.pdf)]
