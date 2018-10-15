@@ -30,14 +30,15 @@
 * **Dynamic Memory Networks [[Paper](http://arxiv.org/abs/1506.07285)]**
 
 ----------------
-
+##### Timeline of RNNs
 ![rnn_timeline](https://github.com/gopala-kr/recurrent-nn/blob/master/res/rnn_timeline.PNG)
 
 --------------
-
+##### Comparision of LSTM networks
 ![lstm](https://github.com/gopala-kr/recurrent-nn/blob/master/res/lstm.PNG)
 
 -----------
+##### Comparision of RNN networks
 
 ![rnn](https://github.com/gopala-kr/recurrent-nn/blob/master/res/rnn.PNG)
 
