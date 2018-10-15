@@ -82,3 +82,5 @@
     * Uncovering Temporal Context for Video Question and Answering, arXiv:1511.04670
   * KIT + MIT + Univ. Toronto [[Paper](http://arxiv.org/abs/1512.02902)] [[Dataset](http://movieqa.cs.toronto.edu/home/)]
     * MovieQA: Understanding Stories in Movies through Question-Answering, arXiv:1512.02902
+    
+-----------------
