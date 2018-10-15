@@ -42,6 +42,22 @@
 
 ![rnn](https://github.com/gopala-kr/recurrent-nn/blob/master/res/rnn.PNG)
 
+----------------
+
+#### References
+
+- [rnn-surveys](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-surveys.md)
+- [ref-implementations](https://github.com/gopala-kr/recurrent-nn/blob/master/ref-implementations.md)
+- [language-modeling](https://github.com/gopala-kr/recurrent-nn/blob/master/language-modeling.md)
+- [conversation-modeling](https://github.com/gopala-kr/recurrent-nn/blob/master/conversation-modeling.md)
+- [machine-translation](https://github.com/gopala-kr/recurrent-nn/blob/master/machine-translation.md)
+- [qa](https://github.com/gopala-kr/recurrent-nn/blob/master/qa.md)
+- [speech-processing](https://github.com/gopala-kr/recurrent-nn/blob/master/speech-processing.md)
+- [vision-nlp](https://github.com/gopala-kr/recurrent-nn/blob/master/vision-nlp.md)
+- [rnn-vision](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-vision.md)
+- [rnn-robot](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-robot.md)
+- [turing-machines](https://github.com/gopala-kr/recurrent-nn/blob/master/turing-machines.md)
+- [rnn-other](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-other.md)
 
 ------------------------
 
