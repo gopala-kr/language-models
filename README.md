@@ -58,6 +58,9 @@
 - [rnn-robot](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-robot.md)
 - [turing-machines](https://github.com/gopala-kr/recurrent-nn/blob/master/turing-machines.md)
 - [rnn-other](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-other.md)
+-----------
+
+- [embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 
 ------------------------
 
