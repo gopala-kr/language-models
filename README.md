@@ -61,7 +61,7 @@
 -----------
 
 - [embedding-models](https://github.com/Hironsan/awesome-embedding-models)
-
+- [Facebook: Advancing understanding at ACL 2017](https://research.fb.com/advancing-understanding-at-acl2017/)
 ------------------------
 
 _**Maintainer**_
