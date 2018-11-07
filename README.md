@@ -60,9 +60,22 @@
 - [rnn-other](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-other.md)
 -----------
 
+
+- [awesome-nlp](https://github.com/keon/awesome-nlp) 
+- [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
+- [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) 
+- [oxford.nlp.lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) 
+- [stanford.nlp.lectures](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 
+- [nltk.org/book](http://www.nltk.org/book/) 
+- [DL4NLP](https://github.com/andrewt3000/DL4NLP) 
+- [cs388.utexas.nlp](https://www.cs.utexas.edu/~mooney/cs388/) 
+- [nlp-datasets](https://github.com/karthikncode/nlp-datasets) 
+- [DL-NLP-Readings](https://github.com/IsaacChanghau/DL-NLP-Readings) 
+- [gt-nlp-class](https://github.com/jacobeisenstein/gt-nlp-class)
 - [embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 - [Facebook: Advancing understanding at ACL 2017](https://research.fb.com/advancing-understanding-at-acl2017/)
 - [Facebook: Visual reasoning and dialog](https://research.fb.com/visual-reasoning-and-dialog-towards-natural-language-conversations-about-visual-data/)
+
 ------------------------
 
 _**Maintainer**_
