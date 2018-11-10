@@ -77,6 +77,7 @@
 - [Facebook: Visual reasoning and dialog](https://research.fb.com/visual-reasoning-and-dialog-towards-natural-language-conversations-about-visual-data/)
 - [ilya_sutskever_phd_thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 - [Notes on state of the art techniques for language modeling](https://www.fast.ai/2017/08/25/language-modeling-sota/)
+- [AUTOMATIC SPEECH RECOGNITION (ASR) 2017-18: LECTURES](https://www.inf.ed.ac.uk/teaching/courses/asr/lectures.html)
 
 ------------------------
 
