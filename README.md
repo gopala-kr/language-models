@@ -76,6 +76,7 @@
 - [Facebook: Advancing understanding at ACL 2017](https://research.fb.com/advancing-understanding-at-acl2017/)
 - [Facebook: Visual reasoning and dialog](https://research.fb.com/visual-reasoning-and-dialog-towards-natural-language-conversations-about-visual-data/)
 - [ilya_sutskever_phd_thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+- [Notes on state of the art techniques for language modeling](https://www.fast.ai/2017/08/25/language-modeling-sota/)
 
 ------------------------
 
