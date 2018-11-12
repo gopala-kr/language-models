@@ -20,7 +20,7 @@
 
 #### Memory
 
-* **LSTM [[Paper](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)]**
+* **LSTM [[Paper](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)] [Paper](https://arxiv.org/pdf/1611.05104.pdf)**
 * **GRU (Gated Recurrent Unit) [[Paper](http://arxiv.org/pdf/1406.1078.pdf)]**
 * **NTM [[Paper](http://arxiv.org/pdf/1410.5401)]**
 * **Neural GPU [[Paper](http://arxiv.org/pdf/1511.08228.pdf)]**
