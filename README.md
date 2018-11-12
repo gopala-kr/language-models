@@ -64,6 +64,7 @@
 
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](https://arxiv.org/abs/1510.04781)
 - [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/pdf/1601.06823.pdf)
+- [Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures](https://arxiv.org/pdf/1601.03896.pdf)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) 
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
