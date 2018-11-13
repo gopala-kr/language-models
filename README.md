@@ -68,6 +68,7 @@
 - [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 - [Best Practices for Applying Deep Learning to Novel Applications](https://arxiv.org/ftp/arxiv/papers/1704/1704.01568.pdf)
 - [ParlAI: A Dialog Research Software Platform](https://arxiv.org/pdf/1705.06476.pdf)
+- [Statistical Machine Translation](https://arxiv.org/pdf/1709.07809.pdf)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) 
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
