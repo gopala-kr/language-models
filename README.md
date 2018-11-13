@@ -22,7 +22,7 @@
 
 * **LSTM [[Paper](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)] [Paper](https://arxiv.org/pdf/1611.05104.pdf)**
 * **GRU (Gated Recurrent Unit) [[Paper](http://arxiv.org/pdf/1406.1078.pdf)]**
-* **NTM [[Paper](http://arxiv.org/pdf/1410.5401)]**
+* **NTM [[Paper](http://arxiv.org/pdf/1410.5401)] [[Paper](https://arxiv.org/pdf/1703.03906.pdf)]** 
 * **Neural GPU [[Paper](http://arxiv.org/pdf/1511.08228.pdf)]**
 * **Memory Network [[Paper](http://arxiv.org/pdf/1410.3916)]**
 * **Pointer Network [[Paper](http://arxiv.org/pdf/1506.03134)]**
@@ -66,6 +66,7 @@
 - [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/pdf/1601.06823.pdf)
 - [Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures](https://arxiv.org/pdf/1601.03896.pdf)
 - [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
+- [Best Practices for Applying Deep Learning to Novel Applications](https://arxiv.org/ftp/arxiv/papers/1704/1704.01568.pdf)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) 
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
