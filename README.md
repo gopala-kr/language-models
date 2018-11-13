@@ -70,6 +70,8 @@
 - [ParlAI: A Dialog Research Software Platform](https://arxiv.org/pdf/1705.06476.pdf)
 - [Statistical Machine Translation](https://arxiv.org/pdf/1709.07809.pdf)
 - [Adversarial Examples: Attacks and Defenses for Deep Learnin](https://arxiv.org/pdf/1712.07107.pdf)
+- [Deep Learning:
+A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) 
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
