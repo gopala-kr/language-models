@@ -73,6 +73,7 @@
 - [Deep Learning:
 A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [From Word to Sense Embeddings: A Survey on Vector Representations of Meaning](https://arxiv.org/abs/1805.04032v1)
+- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383v1)
 - [A Review of the Neural History of Natural Language Processing](http://ruder.io/a-review-of-the-recent-history-of-nlp/)
 - [EMNLP 2018 Highlights: Inductive bias, cross-lingual learning, and more](http://ruder.io/emnlp-2018-highlights/)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
