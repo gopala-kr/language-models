@@ -74,6 +74,7 @@
 A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [linguistics](https://yandexdataschool.com/edu-process/linguistics)
+- [Machine translation](https://yandexdataschool.com/edu-process/mt)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) 
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
 - [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) 
