@@ -80,6 +80,8 @@ A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 - [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069v1.pdf)
 - [Secure Deep Learning Engineering:
 A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf)
+- [Tackling Sequence to Sequence Mapping
+Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [linguistics](https://yandexdataschool.com/edu-process/linguistics)
 - [Machine translation](https://yandexdataschool.com/edu-process/mt)
