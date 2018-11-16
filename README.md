@@ -82,6 +82,7 @@ A Critical Appraisal ](https://arxiv.org/ftp/arxiv/papers/1801/1801.00631.pdf)
 A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf)
 - [Tackling Sequence to Sequence Mapping
 Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
+- [Security for Machine Learning-based Systems: Attacks and Challenges during Training and Inference](https://arxiv.org/abs/1811.01463v1)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
 - [linguistics](https://yandexdataschool.com/edu-process/linguistics)
 - [Machine translation](https://yandexdataschool.com/edu-process/mt)
