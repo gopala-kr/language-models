@@ -84,6 +84,9 @@ A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf
 Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Security for Machine Learning-based Systems: Attacks and Challenges during Training and Inference](https://arxiv.org/abs/1811.01463v1)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
+- [Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network](https://arxiv.org/abs/1808.03314v4)
+- [Deep RNN Framework for Visual Sequential Applications](https://arxiv.org/abs/1811.09961v3)
+- [EcoRNN: Efficient Computing of LSTM RNN Training on GPUs](https://arxiv.org/abs/1805.08899v4)
 - [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
 
 ------------
