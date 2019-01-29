@@ -84,6 +84,7 @@ A Software Quality Assurance Perspective](https://arxiv.org/pdf/1810.04538v1.pdf
 Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Security for Machine Learning-based Systems: Attacks and Challenges during Training and Inference](https://arxiv.org/abs/1811.01463v1)
 - [Speech processing: recognition, synthesis + Survey on chatbot platforms and API's](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)
+- [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
 
 ------------
 
