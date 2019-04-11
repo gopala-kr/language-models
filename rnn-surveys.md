@@ -10,3 +10,4 @@
 - [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/ftp/arxiv/papers/1708/1708.05148.pdf)
 - [Recent Trends in Deep Learning Based
 Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
+- [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544v1)
