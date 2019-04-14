@@ -150,6 +150,13 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Deep RNN Framework for Visual Sequential Applications](https://arxiv.org/abs/1811.09961v3)
 - [EcoRNN: Efficient Computing of LSTM RNN Training on GPUs](https://arxiv.org/abs/1805.08899v4)
 - [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
+- [Modular Mechanistic Networks: On Bridging Mechanistic and Phenomenological Models with Deep Neural Networks in Natural Language Processing](https://arxiv.org/abs/1807.09844v2)
+- [Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing](https://arxiv.org/abs/1807.00914v2)
+- [Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing](https://arxiv.org/abs/1902.02181v1)
+- [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709v8)
+- [Quantifying Uncertainties in Natural Language Processing Tasks](https://arxiv.org/abs/1811.07253v1)
+- [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770v1)
+
 
 ------------
 
