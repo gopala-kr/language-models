@@ -110,6 +110,7 @@
 
 #### References
 
+- [NLP SOTA](https://paperswithcode.com/area/natural-language-processing)
 - [rnn-surveys](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-surveys.md)
 - [ref-implementations](https://github.com/gopala-kr/recurrent-nn/blob/master/ref-implementations.md)
 - [language-modeling](https://github.com/gopala-kr/recurrent-nn/blob/master/language-modeling.md)
