@@ -172,6 +172,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [ilya_sutskever_phd_thesis](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 - [Notes on state of the art techniques for language modeling](https://www.fast.ai/2017/08/25/language-modeling-sota/)
 - [ASR 2017-18: lectures](https://www.inf.ed.ac.uk/teaching/courses/asr/lectures.html)
+- [Sebastian Ruder](http://ruder.io/)
 
 ------------------------
 
