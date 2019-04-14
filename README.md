@@ -44,6 +44,8 @@
 
 ----------------
 
+### NLP
+
 #### 1. Basic Embedding Model
 
 - 1-1. [NNLM(Neural Network Language Model)](https://github.com/graykode/nlp-tutorial/tree/master/1-1.NNLM) - **Predict Next Word**
