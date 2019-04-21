@@ -13,3 +13,8 @@
 
 
 -----------
+
+- [Comparing the Functionality of Open Source Natural Language Processing Libraries](https://blog.dominodatalab.com/comparing-the-functionality-of-open-source-natural-language-processing-libraries/)
+
+
+---------
