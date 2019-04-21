@@ -155,6 +155,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709v8)
 - [Quantifying Uncertainties in Natural Language Processing Tasks](https://arxiv.org/abs/1811.07253v1)
 - [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770v1)
+- [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 
 
 ------------
