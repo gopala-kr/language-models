@@ -180,6 +180,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Notes on state of the art techniques for language modeling](https://www.fast.ai/2017/08/25/language-modeling-sota/)
 - [ASR 2017-18: lectures](https://www.inf.ed.ac.uk/teaching/courses/asr/lectures.html)
 - [Sebastian Ruder](http://ruder.io/)
+- [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
 
 ------------------------
 
