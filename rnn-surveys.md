@@ -1,4 +1,13 @@
 ### Surveys
+
+- [Natural Language Processing Advancements By Deep Learning: A Survey](https://arxiv.org/abs/2003.01200)
+- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/abs/2003.08271)
+- [Analysis Methods in Neural Language Processing: A Survey](https://arxiv.org/abs/1812.08951)
+- [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770.pdf)
+- [Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
+
+------------
+
 * [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/pdf/nature14539.pdf), Nature 2015
 * [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069), arXiv:1503.04069
 * [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019), arXiv:1506.00019
@@ -11,3 +20,5 @@
 - [Recent Trends in Deep Learning Based
 Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 - [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544v1)
+
+------------
