@@ -21,4 +21,14 @@
 Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 - [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544v1)
 
+-----------
+--------------------
+![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
+--------
+![FvQ12Yic_Iif2mxJB64bNw](https://miro.medium.com/max/1500/1*FvQ12Yic_Iif2mxJB64bNw.png)
+-----------
+![1*X1JSg2zYqD94Mp-MJRBsAw](https://miro.medium.com/max/1050/1*X1JSg2zYqD94Mp-MJRBsAw.png)
+---------
+![zCoB9_l5NXzlggQikrdxYg](https://miro.medium.com/max/1500/1*zCoB9_l5NXzlggQikrdxYg.png)
+
 ------------
