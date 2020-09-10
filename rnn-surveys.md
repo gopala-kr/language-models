@@ -27,6 +27,8 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 -----------
 ![B08681_01_01](https://static.packt-cdn.com/products/9781788478311/graphics/B08681_01_01.jpg)
 ------------
+![j_dim-2020-0003_fig_009](https://content.sciendo.com/view/journals/dim/4/1/graphic/j_dim-2020-0003_fig_009.jpg)
+------------
 ![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
 --------
 ![FvQ12Yic_Iif2mxJB64bNw](https://miro.medium.com/max/1500/1*FvQ12Yic_Iif2mxJB64bNw.png)
@@ -38,6 +40,7 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 ![TurningNGL_Model__1400x788](https://www.microsoft.com/en-us/research/uploads/prod/2020/02/TurningNGL_Model__1400x788-5e418cff76a2a-1024x576.png)
 -----------
 ![openai1](https://www.cbronline.com/wp-content/uploads/2020/06/openai1-1024x626.jpg)
+----------
+![in-context-prompt](https://anotherdatum.com/images//gpt-3/in-context-prompt.png)
 -------------
-![j_dim-2020-0003_fig_009](https://content.sciendo.com/view/journals/dim/4/1/graphic/j_dim-2020-0003_fig_009.jpg)
-------------
+---------------------------
