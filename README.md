@@ -156,6 +156,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Quantifying Uncertainties in Natural Language Processing Tasks](https://arxiv.org/abs/1811.07253v1)
 - [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770v1)
 - [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+- [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [Paper Explained](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 
 
 ------------
