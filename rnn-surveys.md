@@ -31,6 +31,8 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 --------------
 ![githubusercontent](https://camo.githubusercontent.com/144202183a5f8a47dcd0d09c7ca6df158e79d3b9/68747470733a2f2f692e7974696d672e636f6d2f76692f56387172566c65475935552f6d617872657364656661756c742e6a7067)
 ------------
+![IdLJIaaandrB_aR_2ZCnlg](https://miro.medium.com/max/896/1*IdLJIaaandrB_aR_2ZCnlg.jpeg)
+------------
 ![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
 --------
 ![FvQ12Yic_Iif2mxJB64bNw](https://miro.medium.com/max/1500/1*FvQ12Yic_Iif2mxJB64bNw.png)
@@ -40,6 +42,7 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 ![zCoB9_l5NXzlggQikrdxYg](https://miro.medium.com/max/1500/1*zCoB9_l5NXzlggQikrdxYg.png)
 --------
 ![TurningNGL_Model__1400x788](https://www.microsoft.com/en-us/research/uploads/prod/2020/02/TurningNGL_Model__1400x788-5e418cff76a2a-1024x576.png)
+
 -----------
 ![openai1](https://www.cbronline.com/wp-content/uploads/2020/06/openai1-1024x626.jpg)
 ----------
