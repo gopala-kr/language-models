@@ -104,7 +104,18 @@
 - [BERT](https://github.com/graykode/nlp-tutorial/tree/master/5-2.BERT) - **Classification Next Sentence & Predict Masked Tokens**
 [[Paper(2018)](https://arxiv.org/abs/1810.04805)]  [[Colab](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT_Torch.ipynb)]
 
+------------------
+--------------------
+![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
+--------
+![FvQ12Yic_Iif2mxJB64bNw](https://miro.medium.com/max/1500/1*FvQ12Yic_Iif2mxJB64bNw.png)
+-----------
+![1*X1JSg2zYqD94Mp-MJRBsAw](https://miro.medium.com/max/1050/1*X1JSg2zYqD94Mp-MJRBsAw.png)
+---------
+![zCoB9_l5NXzlggQikrdxYg](https://miro.medium.com/max/1500/1*zCoB9_l5NXzlggQikrdxYg.png)
+
 ---------------
+---------------------
 
 #### References
 
