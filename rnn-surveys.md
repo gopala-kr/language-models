@@ -28,6 +28,8 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 ![B08681_01_01](https://static.packt-cdn.com/products/9781788478311/graphics/B08681_01_01.jpg)
 ------------
 ![j_dim-2020-0003_fig_009](https://content.sciendo.com/view/journals/dim/4/1/graphic/j_dim-2020-0003_fig_009.jpg)
+--------------
+![githubusercontent](https://camo.githubusercontent.com/144202183a5f8a47dcd0d09c7ca6df158e79d3b9/68747470733a2f2f692e7974696d672e636f6d2f76692f56387172566c65475935552f6d617872657364656661756c742e6a7067)
 ------------
 ![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
 --------
