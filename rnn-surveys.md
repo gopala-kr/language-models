@@ -5,9 +5,14 @@
 - [Analysis Methods in Neural Language Processing: A Survey](https://arxiv.org/abs/1812.08951)
 - [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770.pdf)
 - [Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
-
+- [A Review of the Neural History of Natural Language Processing](https://ruder.io/a-review-of-the-recent-history-of-nlp/)
 ------------
 
+- [https://gluebenchmark.com/leaderboard](https://gluebenchmark.com/leaderboard)
+- [https://ruder.io/](https://ruder.io/)
+- [frontiers-of-natural-language-processing](https://www.slideshare.net/SebastianRuder/frontiers-of-natural-language-processing)
+- [2019 — Year of BERT and Transformer](https://towardsdatascience.com/2019-year-of-bert-and-transformer-f200b53d05b9)
+- [FROM Pre-trained Word Embeddings TO Pre-trained Language Models — Focus on BERT](https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598)
 * [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/pdf/nature14539.pdf), Nature 2015
 * [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069), arXiv:1503.04069
 * [A Critical Review of Recurrent Neural Networks for Sequence Learning](http://arxiv.org/pdf/1506.00019), arXiv:1506.00019
@@ -33,6 +38,14 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 ------------
 ![IdLJIaaandrB_aR_2ZCnlg](https://miro.medium.com/max/896/1*IdLJIaaandrB_aR_2ZCnlg.jpeg)
 ------------
+![ZUHC1z5V6AsR_MOltzW](https://miro.medium.com/max/4096/1*ZUHC1z5V6AsR_MOltzW-NQ.png)
+----------
+![1a9030e7b256f845_articlex](https://imgs.developpaper.com/imgs/4289073911-1a9030e7b256f845_articlex.jpg)
+-----------
+![pretraining_adaptation](https://ruder.io/content/images/2019/08/pretraining_adaptation.png)
+------------
+![ner_results](https://ruder.io/content/images/2019/08/ner_results.png)
+---------------
 ![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
 --------
 ![FvQ12Yic_Iif2mxJB64bNw](https://miro.medium.com/max/1500/1*FvQ12Yic_Iif2mxJB64bNw.png)
