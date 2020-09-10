@@ -24,6 +24,8 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 -----------
 --------------------
 ![natural-language-processing-nlp-tasks](https://mobidev.biz/wp-content/uploads/2019/12/natural-language-processing-nlp-tasks.png)
+-----------
+![B08681_01_01](https://static.packt-cdn.com/products/9781788478311/graphics/B08681_01_01.jpg)
 ------------
 ![1*ff_bprXLuTueAx7-5-MHew](https://miro.medium.com/max/1500/1*ff_bprXLuTueAx7-5-MHew.png)
 --------
