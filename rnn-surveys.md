@@ -30,5 +30,6 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 ![1*X1JSg2zYqD94Mp-MJRBsAw](https://miro.medium.com/max/1050/1*X1JSg2zYqD94Mp-MJRBsAw.png)
 ---------
 ![zCoB9_l5NXzlggQikrdxYg](https://miro.medium.com/max/1500/1*zCoB9_l5NXzlggQikrdxYg.png)
-
+--------
+![j_dim-2020-0003_fig_009](https://content.sciendo.com/view/journals/dim/4/1/graphic/j_dim-2020-0003_fig_009.jpg)
 ------------
