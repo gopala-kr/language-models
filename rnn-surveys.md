@@ -6,6 +6,7 @@
 - [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/pdf/1811.00770.pdf)
 - [Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
 - [A Review of the Neural History of Natural Language Processing](https://ruder.io/a-review-of-the-recent-history-of-nlp/)
+- [A Survey of the State-of-the-Art Language Models up to Early 2020](https://medium.com/@phylypo/a-survey-of-the-state-of-the-art-language-models-up-to-early-2020-aba824302c6)
 ------------
 
 - [https://gluebenchmark.com/leaderboard](https://gluebenchmark.com/leaderboard)
