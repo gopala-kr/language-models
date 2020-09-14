@@ -127,20 +127,6 @@
 
 ![PTM1](https://github.com/gopala-kr/language-models/blob/master/res/PTM1.PNG)
 
-------------------
-
-- Contextual
-  - Non-Contextual
-    - [CBOW, Skip-Gram](https://arxiv.org/pdf/1310.4546.pdf)
-    - [GloVe](https://nlp.stanford.edu/pubs/glove.pdf)
-  - Contextual
-    - [ELMo](https://arxiv.org/pdf/1802.05365.pdf)
-    - [GPT](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-    - [BERT](https://arxiv.org/pdf/1810.04805.pdf)
-- Architectures
-  - LSTM
-- Task Types
-- Extensions
 
 
 ---------------------------
