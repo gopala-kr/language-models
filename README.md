@@ -146,6 +146,8 @@
 - [rnn-robot](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-robot.md)
 - [turing-machines](https://github.com/gopala-kr/recurrent-nn/blob/master/turing-machines.md)
 - [rnn-other](https://github.com/gopala-kr/recurrent-nn/blob/master/rnn-other.md)
+- [BERT-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
+
 -----------
 
 - [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](https://arxiv.org/abs/1510.04781)
