@@ -129,7 +129,10 @@
 
 
 --------------
-#### Benchmark Datasets
+![comp](https://github.com/gopala-kr/language-models/blob/master/res/comp.PNG)
+
+--------------
+#### Benchmarks
 
 ![Benchmarks](https://github.com/gopala-kr/language-models/blob/master/res/Benchmarks.PNG)
 
