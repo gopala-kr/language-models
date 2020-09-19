@@ -136,6 +136,8 @@
 
 ![Benchmarks](https://github.com/gopala-kr/language-models/blob/master/res/Benchmarks.PNG)
 
+----------------
+![Compression](https://github.com/gopala-kr/language-models/blob/master/res/Compression.PNG)
 
 ---------------------------
 
