@@ -65,5 +65,7 @@ Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 ![openai1](https://www.cbronline.com/wp-content/uploads/2020/06/openai1-1024x626.jpg)
 ----------
 ![in-context-prompt](https://anotherdatum.com/images//gpt-3/in-context-prompt.png)
+------------------
+![V%2BN](https://github.com/gopala-kr/language-models/blob/master/res/V%2BN.PNG)
 -------------
 ---------------------------
