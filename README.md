@@ -136,6 +136,11 @@
 
 ![Benchmarks](https://github.com/gopala-kr/language-models/blob/master/res/Benchmarks.PNG)
 
+---------------
+
+#### QA SoTA
+
+![QA](https://github.com/gopala-kr/language-models/blob/master/res/QA.PNG)
 ----------------
 ![Compression](https://github.com/gopala-kr/language-models/blob/master/res/Compression.PNG)
 
