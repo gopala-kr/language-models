@@ -7,6 +7,7 @@
 - [Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches](https://arxiv.org/abs/1904.01172)
 - [A Review of the Neural History of Natural Language Processing](https://ruder.io/a-review-of-the-recent-history-of-nlp/)
 - [A Survey of the State-of-the-Art Language Models up to Early 2020](https://medium.com/@phylypo/a-survey-of-the-state-of-the-art-language-models-up-to-early-2020-aba824302c6)
+- [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358v2.pdf)
 ------------
 
 - [NiuTrans/ABigSurvey](https://github.com/NiuTrans/ABigSurvey)
