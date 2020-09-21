@@ -8,6 +8,8 @@
 - [A Review of the Neural History of Natural Language Processing](https://ruder.io/a-review-of-the-recent-history-of-nlp/)
 - [A Survey of the State-of-the-Art Language Models up to Early 2020](https://medium.com/@phylypo/a-survey-of-the-state-of-the-art-language-models-up-to-early-2020-aba824302c6)
 - [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358v2.pdf)
+- [Current Limitations of Language Models: What You Need is Retrieval](https://arxiv.org/pdf/2009.06857v1.pdf)
+
 ------------
 
 - [NiuTrans/ABigSurvey](https://github.com/NiuTrans/ABigSurvey)
