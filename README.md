@@ -224,7 +224,8 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [ASR 2017-18: lectures](https://www.inf.ed.ac.uk/teaching/courses/asr/lectures.html)
 - [Sebastian Ruder](http://ruder.io/)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
-
+- [awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [PLMpapers](https://github.com/thunlp/PLMpapers)
 ------------------------
 
 _**Maintainer**_
