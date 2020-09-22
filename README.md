@@ -138,11 +138,7 @@
 
 ---------------
 ![PLMfamily](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.jpg)
-----------------
 
-#### QA SoTA
-
-![QA](https://github.com/gopala-kr/language-models/blob/master/res/QA.PNG)
 ----------------
 ![Compression](https://github.com/gopala-kr/language-models/blob/master/res/Compression.PNG)
 
@@ -208,6 +204,9 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [linguistics](https://yandexdataschool.com/edu-process/linguistics)
 - [Machine translation](https://yandexdataschool.com/edu-process/mt)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) 
+- [awesome-bert](https://github.com/Jiakui/awesome-bert)
+- [PLMpapers](https://github.com/thunlp/PLMpapers)
+- [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 - [nlp_tasks](https://github.com/Kyubyong/nlp_tasks) 
 - [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) 
 - [oxford.nlp.lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) 
@@ -225,10 +224,10 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Notes on state of the art techniques for language modeling](https://www.fast.ai/2017/08/25/language-modeling-sota/)
 - [ASR 2017-18: lectures](https://www.inf.ed.ac.uk/teaching/courses/asr/lectures.html)
 - [Sebastian Ruder](http://ruder.io/)
+- [wer_are_we](https://github.com/syhw/wer_are_we)
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
-- [awesome-bert](https://github.com/Jiakui/awesome-bert)
-- [PLMpapers](https://github.com/thunlp/PLMpapers)
-- [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
+
 ------------------------
 
 _**Maintainer**_
