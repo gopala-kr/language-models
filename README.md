@@ -137,6 +137,8 @@
 ![Benchmarks](https://github.com/gopala-kr/language-models/blob/master/res/Benchmarks.PNG)
 
 ---------------
+![PLMfamily](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.jpg)
+----------------
 
 #### QA SoTA
 
@@ -226,6 +228,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
 - [awesome-bert](https://github.com/Jiakui/awesome-bert)
 - [PLMpapers](https://github.com/thunlp/PLMpapers)
+- [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 ------------------------
 
 _**Maintainer**_
