@@ -30,7 +30,7 @@
 - [Recent Trends in Deep Learning Based
 Natural Language Processing](https://arxiv.org/pdf/1708.02709v5.pdf)
 - [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/abs/1811.05544v1)
-
+- [learning-path-nlp-2020](https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/)
 -----------
 --------------------
 ![natural-language-processing-nlp-tasks](https://mobidev.biz/wp-content/uploads/2019/12/natural-language-processing-nlp-tasks.png)
