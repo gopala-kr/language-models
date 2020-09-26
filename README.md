@@ -144,6 +144,9 @@
 
 ---------------------------
 
+![nlp](https://raw.githubusercontent.com/graykode/nlp-roadmap/master/img/nlp.png)
+
+----------------------------
 #### References
 
 - [NLP SOTA](https://paperswithcode.com/area/natural-language-processing)
