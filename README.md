@@ -144,9 +144,14 @@
 
 ---------------------------
 ![textmining](https://raw.githubusercontent.com/graykode/nlp-roadmap/master/img/textmining.png)
+
+[source : graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
+
 ---------------
 
 ![nlp](https://raw.githubusercontent.com/graykode/nlp-roadmap/master/img/nlp.png)
+
+[source : graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
 
 ----------------------------
 #### References
