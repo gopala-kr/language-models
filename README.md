@@ -232,7 +232,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [wer_are_we](https://github.com/syhw/wer_are_we)
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
-- 
+- [graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
 ------------------------
 
 _**Maintainer**_
