@@ -143,6 +143,8 @@
 ![Compression](https://github.com/gopala-kr/language-models/blob/master/res/Compression.PNG)
 
 ---------------------------
+![textmining](https://raw.githubusercontent.com/graykode/nlp-roadmap/master/img/textmining.png)
+---------------
 
 ![nlp](https://raw.githubusercontent.com/graykode/nlp-roadmap/master/img/nlp.png)
 
@@ -230,7 +232,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [wer_are_we](https://github.com/syhw/wer_are_we)
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
-
+- 
 ------------------------
 
 _**Maintainer**_
