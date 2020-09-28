@@ -238,7 +238,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
 - [graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
-- [huggingface/transformers)](https://github.com/huggingface/transformers)
+- [huggingface/nlp)](https://github.com/huggingface)
 ------------------------
 
 _**Maintainer**_
