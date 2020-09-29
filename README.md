@@ -240,6 +240,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
 - [huggingface/nlp)](https://github.com/huggingface
 - [paperswithcode/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
+- [paperswithcode/speech](https://paperswithcode.com/area/speech)
 
 ------------------------
 
