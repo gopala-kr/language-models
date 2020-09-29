@@ -241,6 +241,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [huggingface/nlp)](https://github.com/huggingface
 - [paperswithcode/natural-language-processing](https://paperswithcode.com/area/natural-language-processing)
 - [paperswithcode/speech](https://paperswithcode.com/area/speech)
+- [nlp-methods](https://paperswithcode.com/methods/area/natural-language-processing)
 
 ------------------------
 
