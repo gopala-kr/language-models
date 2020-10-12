@@ -207,7 +207,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770v1)
 - [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 - [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [Paper Explained](https://www.youtube.com/watch?v=SY5PvZrJhLE) | [openai/gpt-3](https://github.com/openai/gpt-3)
-
+- [HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/pdf/1910.03771v4.pdf)
 
 ------------
 
