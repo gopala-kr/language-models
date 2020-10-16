@@ -209,7 +209,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) | [Paper Explained](https://www.youtube.com/watch?v=SY5PvZrJhLE) | [openai/gpt-3](https://github.com/openai/gpt-3)
 - [HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/pdf/1910.03771v4.pdf)
 - [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf)
-
+- [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/pdf/2008.12009v2.pdf)
 ------------
 
 - [linguistics](https://yandexdataschool.com/edu-process/linguistics)
