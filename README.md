@@ -245,6 +245,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [paperswithcode/speech](https://paperswithcode.com/area/speech)
 - [nlp-methods](https://paperswithcode.com/methods/area/natural-language-processing)
 - [practical-nlp/practical-nlp](https://github.com/practical-nlp/practical-nlp)
+- [ICLR 2020: NLP Highlights](https://towardsdatascience.com/iclr-2020-nlp-highlights-511deb99b967)
 
 ------------------------
 
