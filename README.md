@@ -211,6 +211,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/pdf/1907.09358.pdf)
 - [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/pdf/2008.12009v2.pdf)
 - [NLPStatTest: A Toolkit for Comparing NLP System Performance](https://arxiv.org/pdf/2011.13231v1.pdf)
+- [Robustness Gym: Unifying the NLP Evaluation Landscape](https://arxiv.org/pdf/2101.04840v1.pdf)
 
 ------------
 
