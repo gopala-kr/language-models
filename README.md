@@ -213,6 +213,8 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [NLPStatTest: A Toolkit for Comparing NLP System Performance](https://arxiv.org/pdf/2011.13231v1.pdf)
 - [Robustness Gym: Unifying the NLP Evaluation Landscape](https://arxiv.org/pdf/2101.04840v1.pdf)
 - [Exploring and Predicting Transferability across NLP Tasks](https://arxiv.org/pdf/2005.00770v2.pdf)
+- [Neuron-level Interpretation of Deep NLP Models: A Survey](https://arxiv.org/pdf/2108.13138v1.pdf)
+
 
 ------------
 
