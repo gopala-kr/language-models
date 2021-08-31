@@ -216,6 +216,8 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Neuron-level Interpretation of Deep NLP Models: A Survey](https://arxiv.org/pdf/2108.13138v1.pdf)
 - [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/pdf/2105.03075v4.pdf)
 - [A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP](https://arxiv.org/pdf/2104.10810v1.pdf)
+- [Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/pdf/2005.14050v2.pdf)
+
 
 ------------
 
