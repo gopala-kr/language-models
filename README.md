@@ -218,6 +218,8 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [A Short Survey of Pre-trained Language Models for Conversational AI-A NewAge in NLP](https://arxiv.org/pdf/2104.10810v1.pdf)
 - [Language (Technology) is Power: A Critical Survey of "Bias" in NLP](https://arxiv.org/pdf/2005.14050v2.pdf)
 - [Taxonomic survey of Hindi Language NLP systems](https://arxiv.org/ftp/arxiv/papers/2102/2102.00214.pdf)
+- [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/pdf/1811.05544v1.pdf)
+
 
 ------------
 
