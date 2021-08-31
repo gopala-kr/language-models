@@ -214,7 +214,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Robustness Gym: Unifying the NLP Evaluation Landscape](https://arxiv.org/pdf/2101.04840v1.pdf)
 - [Exploring and Predicting Transferability across NLP Tasks](https://arxiv.org/pdf/2005.00770v2.pdf)
 - [Neuron-level Interpretation of Deep NLP Models: A Survey](https://arxiv.org/pdf/2108.13138v1.pdf)
-
+- [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/pdf/2105.03075v4.pdf)
 
 ------------
 
