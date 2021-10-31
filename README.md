@@ -220,7 +220,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Taxonomic survey of Hindi Language NLP systems](https://arxiv.org/ftp/arxiv/papers/2102/2102.00214.pdf)
 - [An Introductory Survey on Attention Mechanisms in NLP Problems](https://arxiv.org/pdf/1811.05544v1.pdf)
 - [Indian Legal NLP Benchmarks : A Survey](https://arxiv.org/pdf/2107.06056v1.pdf)
-
+- [Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/pdf/2108.04840v2.pdf)
 ------------
 
 - [linguistics](https://yandexdataschool.com/edu-process/linguistics)
