@@ -222,7 +222,7 @@ Problems with Neural Networks](https://arxiv.org/pdf/1810.10802v1.pdf)
 - [Indian Legal NLP Benchmarks : A Survey](https://arxiv.org/pdf/2107.06056v1.pdf)
 - [Post-hoc Interpretability for Neural NLP: A Survey](https://arxiv.org/pdf/2108.04840v2.pdf)
 - [Explanation-Based Human Debugging of NLP Models: A Survey](https://arxiv.org/pdf/2104.15135v2.pdf)
-
+- [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/pdf/2111.01243v1.pdf)
 
 ------------
 
