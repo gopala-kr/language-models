@@ -5,3 +5,4 @@
 - [Software Engineering for AI-Based Systems: A Survey](https://arxiv.org/pdf/2105.01984.pdf)
 - [A Large Language Model Approach to Educational Survey Feedback Analysis](https://arxiv.org/pdf/2309.17447.pdf)
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)
+- [A Survey on Model Compression for Large Language Models](https://arxiv.org/pdf/2308.07633.pdf)
