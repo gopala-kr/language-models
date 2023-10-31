@@ -15,6 +15,6 @@
 - [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025.pdf)
 - [Large Language Models for Generative Recommendation: A Survey and Visionary Discussions](https://arxiv.org/pdf/2309.01157.pdf)
 - [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/pdf/2308.10792.pdf)
-- []()
+- [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/pdf/2306.05817.pdf)
 - []()
 - []()
