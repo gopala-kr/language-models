@@ -7,3 +7,4 @@
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)
 - [A Survey on Model Compression for Large Language Models](https://arxiv.org/pdf/2308.07633.pdf)
 - [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/pdf/2307.14324.pdf)
+- [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966.pdf)
