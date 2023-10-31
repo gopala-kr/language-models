@@ -12,7 +12,7 @@
 - [Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](https://arxiv.org/pdf/2310.10844.pdf)
 - [Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity](https://arxiv.org/pdf/2310.07521.pdf)
 - [A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics](https://arxiv.org/pdf/2310.05694.pdf)
-- []()
+- [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025.pdf)
 - []()
 - []()
 - []()
