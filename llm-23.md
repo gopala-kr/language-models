@@ -9,7 +9,7 @@
 - [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/pdf/2307.14324.pdf)
 - [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966.pdf)
 - [A Survey for Biomedical Text Summarization: From Pre-trained to Large Language Models](https://arxiv.org/pdf/2304.08763.pdf)
-- []()
+- [Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks](https://arxiv.org/pdf/2310.10844.pdf)
 - []()
 - []()
 - []()
