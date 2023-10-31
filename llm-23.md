@@ -1,0 +1,1 @@
+- [A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions](https://arxiv.org/pdf/2310.14724.pdf)
