@@ -204,8 +204,38 @@
 ---------
 ![012623](https://www.zdnet.com/a/img/resize/c7519e56908527a535b492060fb5faedc2d60f01/2023/01/31/e82c2c70-f422-4ea1-9ddc-141da4e0cb97/gen-ai-chart-3-012623-v1-768x532.png?auto=webp&width=1280)
 
----------------
+
+----------------
+-----------------
+- [brief-history-of-ai](https://ourworldindata.org/brief-history-of-ai)
+
+![Computer-timeline](https://ourworldindata.org/uploads/2022/12/Computer-timeline-2048x288.png)
+
+-----------
+![ai-timeline](https://ourworldindata.org/uploads/2022/12/ai-timeline-2048x518.png)
+
+----------------
+![Timeline-of-AI-generated-faces](https://ourworldindata.org/uploads/2022/12/Timeline-of-AI-generated-faces.png)
 
 ------------
+![performance_Dynabench](https://ourworldindata.org/uploads/2022/12/AI-performance_Dynabench-paper-2048x921.png)
 
+----------
+![ai-training-computation-3](https://ourworldindata.org/uploads/2022/12/ai-training-computation-3.png)
+
+-----------------------
+- [experts-ai-developing-over-the-coming-years](https://www.weforum.org/agenda/2023/02/experts-ai-developing-over-the-coming-years)
+
+![JPVmeLVgBIThCkUnSs7utAuY7jUTP0IU12woGNNgSTU](https://assets.weforum.org/editor/JPVmeLVgBIThCkUnSs7utAuY7jUTP0IU12woGNNgSTU.png)
+
+-----------------
+![b6lIGUvYtp6eIfM6S1n_8cQmEg_Dv5hdNV0_Y6v_mc0](https://assets.weforum.org/editor/b6lIGUvYtp6eIfM6S1n_8cQmEg_Dv5hdNV0_Y6v_mc0.png)
+
+--------------
+![BaUml0Cn3aA](https://assets.weforum.org/editor/roSiknpX8LsBOeCCa27cU7ZwBxqwUeZ-BaUml0Cn3aA.png)
+
+
+
+---------------------------
+--------------------------
 
