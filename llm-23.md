@@ -60,7 +60,8 @@
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering#guides)
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 - [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
-
+- [Prompt Engineering Techniques](https://medium.com/@cobusgreyling/12-prompt-engineering-techniques-644481c857aa)
+- [LLMs Mindmaps](https://lucid.app/lucidspark/98705f5a-a385-4820-a648-be35c9d1cda6/view?invitationId=inv_6e860e14-84df-4db1-a1fc-acf478a17608&page=0_0#)
 
 ---------------
 
@@ -78,6 +79,8 @@
 ------------
 ![roadmap](https://raw.githubusercontent.com/snwfdhmp/awesome-gpt-prompt-engineering/main/assets/roadmap.png)
 
+---------
+![GG8LmLk1vgxYW4QkivDE1w](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*GG8LmLk1vgxYW4QkivDE1w.png)
 ----------
 ![LLMapparchitecturediagram](https://github.blog/wp-content/uploads/2023/10/LLMapparchitecturediagram.png?resize=1600%2C850)
 
@@ -121,6 +124,13 @@
 --------------
 ![LLOps-deals-chart-Sept-2023](https://research-assets.cbinsights.com/2023/09/29141640/LLOps-deals-chart-Sept-2023.png)
 
+---------
+
+![Mozilla-Assistant-diagram](https://hacks.mozilla.org/files/2023/07/Mozilla-Assistant-diagram.png)
+
+------
+![image](https://i0.wp.com/liming-zhu.org/wp-content/uploads/2023/05/image.png?resize=1024%2C666&ssl=1)
+
 ------------
 -----------
 ![5d7d7072574f_1024x888](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc483ad40-b899-4221-ac97-5d7d7072574f_1024x888.png)
@@ -132,6 +142,18 @@
 ![bf8e5ac41d579f3cb0af73533f529ea6](https://truth.bahamut.com.tw/s01/202304/bf8e5ac41d579f3cb0af73533f529ea6.JPG)
 ------
 ![FuzaEP1aEAALd0S](https://pbs.twimg.com/media/FuzaEP1aEAALd0S?format=jpg&name=medium)
+
+-------------
+-----------------
+
+![Slide1](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide1.PNG)
+
+----------
+![Slide2](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide2.PNG)
+
+----------
+![Slide3](https://raw.githubusercontent.com/ashishpatel26/CheatSheet-LLM/main/Images/Slide3.PNG)
+
 ------------------
 - [Tech Leaders Call for Pause in Creation of Giant AI ‘Digital Minds’](https://www.theguardian.com/technology/2023/mar/29/elon-musk-joins-call-for-pause-in-creation-of-giant-ai-digital-minds)
 - [Google's top AI researchers have left for competitors. Here's where they are now.](https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3)
