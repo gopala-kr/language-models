@@ -64,6 +64,8 @@
 -------------------
 ![models-colorgrey](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/models-colorgrey.jpg)
 
+------------
+![roadmap](https://raw.githubusercontent.com/snwfdhmp/awesome-gpt-prompt-engineering/main/assets/roadmap.png)
 ----------
 ![bf8e5ac41d579f3cb0af73533f529ea6](https://truth.bahamut.com.tw/s01/202304/bf8e5ac41d579f3cb0af73533f529ea6.JPG)
 ------
