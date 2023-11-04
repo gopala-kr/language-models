@@ -58,6 +58,7 @@
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering#guides)
+- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 
 ---------------
 
@@ -67,6 +68,9 @@
 
 ------------
 ![roadmap](https://raw.githubusercontent.com/snwfdhmp/awesome-gpt-prompt-engineering/main/assets/roadmap.png)
+
+----------
+![LLMapparchitecturediagram](https://github.blog/wp-content/uploads/2023/10/LLMapparchitecturediagram.png?resize=1600%2C850)
 ----------
 ![bf8e5ac41d579f3cb0af73533f529ea6](https://truth.bahamut.com.tw/s01/202304/bf8e5ac41d579f3cb0af73533f529ea6.JPG)
 ------
