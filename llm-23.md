@@ -68,6 +68,13 @@
 -------------------
 ![models-colorgrey](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/models-colorgrey.jpg)
 
+----------
+![a846bb1b3733_880x3690](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf96874b-3685-4e1b-a639-a846bb1b3733_880x3690.png)
+
+----------
+![FfV3PZFTaoEX7X](https://miro.medium.com/v2/resize:fit:828/format:webp/0*FfV3PZFTaoEX7X-U.png)
+
+
 ------------
 ![roadmap](https://raw.githubusercontent.com/snwfdhmp/awesome-gpt-prompt-engineering/main/assets/roadmap.png)
 
@@ -92,6 +99,33 @@
 
 ----------
 ![6dy5AyRLqe1AvhqLwFncd7LTS6kX_64FLPq1SXOSTzc](https://media.licdn.com/dms/image/D5612AQHuGKdwwGIk0g/article-inline_image-shrink_1500_2232/0/1692630710560?e=1704326400&v=beta&t=6dy5AyRLqe1AvhqLwFncd7LTS6kX_64FLPq1SXOSTzc)
+
+---------
+![iDIPp2YWNSKlOG1zqz6cyw](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iDIPp2YWNSKlOG1zqz6cyw.png)
+
+------
+![aayIsMNoOuWMVkzmyzpvLg](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aayIsMNoOuWMVkzmyzpvLg.png)
+
+-----------
+![nzn6hq9pfYlYTdos](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*nzn6hq9pfYlYTdos.png)
+
+----------
+![2ELf3TZ8](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*2ELf3TZ8-TfzBfJs.png)
+
+----------
+![LLMOps-market-map-CB-Insights-Oct-2023](https://research-assets.cbinsights.com/2023/10/03082834/LLMOps-market-map-CB-Insights-Oct-2023.png)
+
+----------
+![LLMOps-funding-chart-Sept-2023](https://research-assets.cbinsights.com/2023/09/29141627/LLMOps-funding-chart-Sept-2023.png)
+
+--------------
+![LLOps-deals-chart-Sept-2023](https://research-assets.cbinsights.com/2023/09/29141640/LLOps-deals-chart-Sept-2023.png)
+
+------------
+-----------
+![5d7d7072574f_1024x888](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc483ad40-b899-4221-ac97-5d7d7072574f_1024x888.png)
+----------
+![YZLpgfgla1EEdXmmg6ebsA](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*YZLpgfgla1EEdXmmg6ebsA.png)
 
 --------------------
 ----------
