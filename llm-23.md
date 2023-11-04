@@ -57,6 +57,7 @@
 - [Stanford: The AI Index Report - 2023](https://aiindex.stanford.edu/report/)
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering#guides)
 
 ---------------
 
