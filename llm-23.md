@@ -199,7 +199,12 @@
 --------
 ![mjrXQfjwg](https://lh3.googleusercontent.com/0Xc9oyUMbiuW7MzMvU2B1U7yN-FM1F-mDj-J-ySpHTotuGscInbHJtdhWRAZM5betKSJreLDx-cW34IxU8KjnmQ1IsYDB6QAOyJz2Q6_675KlPFryfJFA-QNGnajiGc2tHjZi2DABdajo-mjrXQfjwg)
 
+---------
+![768x526](https://www.zdnet.com/a/img/resize/88c9cee9527f241b10f2af7ad33b73952315e102/2023/01/31/c3c59074-bed2-45af-b479-bb3a91519702/gen-ai-chart-1-012423-v1-768x526.png?auto=webp&width=1280)
+---------
+![012623](https://www.zdnet.com/a/img/resize/c7519e56908527a535b492060fb5faedc2d60f01/2023/01/31/e82c2c70-f422-4ea1-9ddc-141da4e0cb97/gen-ai-chart-3-012623-v1-768x532.png?auto=webp&width=1280)
 
+---------------
 
 ------------
 
