@@ -59,6 +59,8 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering#guides)
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+- [Emerging Architectures for LLM Applications](https://a16z.com/emerging-architectures-for-llm-applications/)
+
 
 ---------------
 
@@ -71,6 +73,27 @@
 
 ----------
 ![LLMapparchitecturediagram](https://github.blog/wp-content/uploads/2023/10/LLMapparchitecturediagram.png?resize=1600%2C850)
+
+-----------
+![2657-Emerging-LLM-App-Stack-R2-2-of-4-2](https://a16z.com/wp-content/uploads/2023/06/2657-Emerging-LLM-App-Stack-R2-2-of-4-2.png)
+----------
+![2657-Emerging-LLM-App-Stack-R2-3-of-4-2](https://a16z.com/wp-content/uploads/2023/06/2657-Emerging-LLM-App-Stack-R2-3-of-4-2.png)
+----------
+![2657-Emerging-LLM-App-Stack-R2-4-of-4-2](https://a16z.com/wp-content/uploads/2023/06/2657-Emerging-LLM-App-Stack-R2-4-of-4-2.png)
+
+--------
+![KaID3IqqMS8tS3Q9feiPZQ](https://miro.medium.com/v2/resize:fit:2000/1*KaID3IqqMS8tS3Q9feiPZQ.png)
+---------
+![lO04uXoDZ8x](https://miro.medium.com/v2/resize:fit:1080/1*lO04uXoDZ8x-vCZ5dYt7lA.png)
+
+-----------
+---------
+![LcvGYa1d3e5hFQdOCv4XxNueP_XgVC_](https://media.licdn.com/dms/image/D4E12AQGmw_8gDy79Bw/article-cover_image-shrink_720_1280/0/1692395671263?e=2147483647&v=beta&t=LcvGYa1d3e5hFQdOCv4XxNueP_XgVC_-BZPxrGdsJAk)
+
+----------
+![6dy5AyRLqe1AvhqLwFncd7LTS6kX_64FLPq1SXOSTzc](https://media.licdn.com/dms/image/D5612AQHuGKdwwGIk0g/article-inline_image-shrink_1500_2232/0/1692630710560?e=1704326400&v=beta&t=6dy5AyRLqe1AvhqLwFncd7LTS6kX_64FLPq1SXOSTzc)
+
+--------------------
 ----------
 ![bf8e5ac41d579f3cb0af73533f529ea6](https://truth.bahamut.com.tw/s01/202304/bf8e5ac41d579f3cb0af73533f529ea6.JPG)
 ------
