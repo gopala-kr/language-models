@@ -45,3 +45,68 @@
 - [Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art](https://arxiv.org/pdf/2308.16316.pdf)
 - [RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/pdf/2309.00810.pdf)
 - [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/pdf/2307.07487.pdf)
+
+
+--------------
+---------------
+
+- [[LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)]
+- [[Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)]
+- [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/pdf/2303.10158.pdf)
+- [Data-centric AI: Perspectives and Challenges](https://arxiv.org/pdf/2301.04819.pdf)
+- [Stanford: The AI Index Report - 2023](https://aiindex.stanford.edu/report/)
+
+
+![survey-gif-test](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif)
+-------------------
+![models-colorgrey](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/models-colorgrey.jpg)
+
+----------
+![bf8e5ac41d579f3cb0af73533f529ea6](https://truth.bahamut.com.tw/s01/202304/bf8e5ac41d579f3cb0af73533f529ea6.JPG)
+------
+![FuzaEP1aEAALd0S](https://pbs.twimg.com/media/FuzaEP1aEAALd0S?format=jpg&name=medium)
+------------------
+- [Tech Leaders Call for Pause in Creation of Giant AI ‘Digital Minds’](https://www.theguardian.com/technology/2023/mar/29/elon-musk-joins-call-for-pause-in-creation-of-giant-ai-digital-minds)
+- [Google's top AI researchers have left for competitors. Here's where they are now.](https://www.businessinsider.com/google-ai-teams-brain-drain-researchers-leave-2023-3)
+- [Goldman Sachs Predicts 300 Million Jobs Will Be Lost Or Degraded By Artificial Intelligence](https://cur.at/9e1XfH8?m=web)
+- [What We Still Don’t Know About How A.I. Is Trained](https://cur.at/2fGFTaV?m=web)
+- [A.I. could lead to a ‘nuclear-level catastrophe’ according to a third of researchers, a new Stanford report finds](https://fortune.com/2023/04/10/ai-nuclear-level-catastrophe-experts-stanford/)
+- [AI: China tech giant Alibaba to roll out ChatGPT rival](https://www.bbc.com/news/business-65236848)
+- [The takeaways from Stanford’s 386-page report on the state of AI](https://techcrunch.com/2023/04/04/the-takeaways-from-stanfords-386-page-report-on-the-state-of-ai/)
+- [Can Intelligence Be Separated From the Body?](https://www.nytimes.com/2023/04/11/science/artificial-intelligence-body-robots.html)
+- [AI In Space: The Amazing Ways Machine Learning Is Helping To Unravel The Mysteries Of The Universe](https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/)
+- [Brain-inspired intelligent robotics: Theoretical analysis and systematic application](https://techxplore.com/news/2023-04-brain-inspired-intelligent-robotics-theoretical-analysis.html)
+- [This AI Paper Introduces SELF-REFINE](https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/)
+- [Scaling vision transformers to 22 billion parameters](https://cur.at/wfPRytS?m=web)
+- [Google Devising Radical Search Changes to Beat Back A.I. Rivals](https://cur.at/Lyo7Obu?m=web)
+- [OpenAI is not currently training GPT-5](https://cur.at/4tfdJJX?m=web)
+- [Google chief warns AI could be harmful if deployed wrongly](https://cur.at/HM5Xr6C?m=web)
+- [Photographer admits prize-winning image was AI-generated](https://cur.at/MEHGZ0?m=web)
+- [AI Reveals a Stunning, High-Definition View of M87’s Big Black Hole](https://cur.at/2wLR9Eq?m=web)
+- [How AI is matching drugs to patients](https://cur.at/qFFuCeb?m=web)
+- [TEDx : How I'm fighting bias in algorithms](https://cur.at/99fF5iL?m=web)
+- [China’s New AI Regulations: Are They Enforcable?](https://cur.at/lxtvC1Y?m=web)
+- [Nobody Can Explain For Sure Why ChatGPT Is So Good At](https://cur.at/d2sRQ4F?m=web)
+- [What is Fuzzy Logic, Robotics & Future of Artificial Intelligence?](https://cur.at/iTpO4Vp?m=web)
+- [Your Robotic Avatar is Almost Ready](https://cur.at/I27yB50?m=web)
+- [LongForm: Optimizing Instruction Tuning for Long Text Generation with Corpus Extraction](https://cur.at/TymV3SI?m=web)
+- [Researchers Explore Foundation Models For Generalist Medical AI](https://cur.at/1aLdlZf?m=web)
+- [A New Model Predicts Depression and Anxiety Using AI and Social Media](https://cur.at/pt5C4U3?m=web)
+----------------------------
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
+- [Bill Gates : The Age of AI has begun - Artificial intelligence is as revolutionary as mobile phones and the Internet.](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun?WT.mc_id=20230321100000_Artificial-Intelligence_BG-TW_&WT.tsrc=BGTW)
+- [Top Machine Learning Papers to Read in 2023](https://www.kdnuggets.com/2023/03/top-machine-learning-papers-read-2023.html)
+- [Google Rolls Out Its Bard Chatbot to Battle ChatGPT](https://www.wired.com/story/google-bard-chatbot-rolls-out-to-battle-chatgpt/)
+- [Jensen Huang : ‘We are at the iPhone moment of AI’](https://venturebeat.com/ai/nvidia-will-bring-ai-to-every-industry-says-ceo-jensen-huang-in-gtc-keynote-we-are-at-the-iphone-moment-of-ai/)
+- [OpenAI Says GPT-4 Is Better in Nearly Every Way. What Matters More Is Millions Will Use It](https://singularityhub.com/2023/03/19/openai-says-gpt-4-is-better-in-nearly-every-way-what-matters-more-is-that-millions-will-use-it/)
+- [Generative AI Makes Headway in Healthcare](https://www.wsj.com/articles/generative-ai-makes-headway-in-healthcare-cb5d4ee2)
+- [GPT-4 has brought a storm of hype and fright – is it marketing froth, or is this a revolution?](https://www.theguardian.com/commentisfree/2023/mar/17/gpt-4-ai-tools-fashion-architecture)
+- [Language models might be able to self-correct biases—if you ask them](https://www.technologyreview.com/2023/03/20/1070067/language-models-may-be-able-to-self-correct-biases-if-you-ask-them-to/)
+- [Bots like ChatGPT aren't sentient. Why do we insist on making them seem like they are?](https://www.cbc.ca/radio/spark/bots-like-chatgpt-aren-t-sentient-why-do-we-insist-on-making-them-seem-like-they-are-1.6761709)
+- [Towards End-to-End Generative Modeling of Long Videos](https://sites.google.com/view/mebt-cvpr2023)
+- [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
+
+
+
+
+
