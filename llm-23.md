@@ -26,3 +26,11 @@
 - [Large Language Models for Information Retrieval: A Survey](https://arxiv.org/pdf/2308.07107.pdf)
 - [ChatGPT in the Age of Generative AI and Large Language Models: A Concise Survey](https://arxiv.org/abs/2307.04251)
 - [A Survey on Evaluation of Large Language Models](https://arxiv.org/pdf/2307.03109.pdf)
+- [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/pdf/2305.18703.pdf)
+- [Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks](https://arxiv.org/pdf/2305.14965.pdf)
+- [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+- [The Science of Detecting LLM-Generated Texts](https://arxiv.org/pdf/2303.07205.pdf)
+- [Accelerating LLM Inference by Enabling Intermediate Layer Decoding](https://arxiv.org/pdf/2310.18581.pdf)
+- [Reinforcement Learning for Generative AI: A Survey](https://arxiv.org/pdf/2308.14328.pdf)
+- [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/pdf/2303.04226.pdf)
+
