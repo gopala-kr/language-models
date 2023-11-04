@@ -39,4 +39,7 @@
 - [Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training](https://arxiv.org/pdf/2305.13689.pdf)
 - [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/pdf/2303.11717.pdf)
 - [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arxiv.org/pdf/2305.06131.pdf)
+- [A Survey on Leveraging Pre-trained Generative Adversarial Networks for Image Editing and Restoration](https://arxiv.org/pdf/2207.10309.pdf)
+- [Text-to-image Diffusion Models in Generative AI: A Survey](https://arxiv.org/pdf/2303.07909.pdf)
+- [A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot](https://arxiv.org/pdf/2307.14397.pdf)
 
