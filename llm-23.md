@@ -63,7 +63,12 @@
 - [Prompt Engineering Techniques](https://medium.com/@cobusgreyling/12-prompt-engineering-techniques-644481c857aa)
 - [LLMs Mindmaps](https://lucid.app/lucidspark/98705f5a-a385-4820-a648-be35c9d1cda6/view?invitationId=inv_6e860e14-84df-4db1-a1fc-acf478a17608&page=0_0#)
 
+
+-------------------
+![2022-google-palm-tree](https://github.com/Hannibal046/Awesome-LLM/blob/main/resources/image8.gif)
 ---------------
+
+
 
 ![survey-gif-test](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif)
 -------------------
@@ -209,8 +214,7 @@
 - [Must read: the 100 most cited AI papers in 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022)
 - [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses](https://openai.com/product/gpt-4)
 - [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
--------------------
-![2022-google-palm-tree](https://github.com/Hannibal046/Awesome-LLM/blob/main/resources/image8.gif)
+
 
 
 ---------
