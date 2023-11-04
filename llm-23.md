@@ -42,4 +42,6 @@
 - [A Survey on Leveraging Pre-trained Generative Adversarial Networks for Image Editing and Restoration](https://arxiv.org/pdf/2207.10309.pdf)
 - [Text-to-image Diffusion Models in Generative AI: A Survey](https://arxiv.org/pdf/2303.07909.pdf)
 - [A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot](https://arxiv.org/pdf/2307.14397.pdf)
-
+- [Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art](https://arxiv.org/pdf/2308.16316.pdf)
+- [RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/pdf/2309.00810.pdf)
+- [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/pdf/2307.07487.pdf)
