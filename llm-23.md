@@ -107,6 +107,22 @@
 - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 
 
+---------------
 
+- [Inside language models (from GPT-3 to PaLM)](https://lifearchitect.ai/models/)
+- [GPT-3.5 + ChatGPT: An illustrated overview](https://lifearchitect.ai/chatgpt/)
+- [Summary of all language models(Google sheets)](https://docs.google.com/spreadsheets/d/1O5KVQW1Hx5ZAkcg8AIRjbQLQzx2wVaLl0SqUu-ir9Fs/edit#gid=1158069878)
+- [Timeline of AI and language models](https://lifearchitect.ai/timeline/)
+- [GPT-4](https://lifearchitect.ai/GPT-4/)
+- [GPT-4 Technical Report](https://arxiv.org/pdf/2303.08774.pdf)
+- [tuning GPT 3.5 into GPA 4.0](https://medium.com/@EdTech/ai-edu-tuning-gpt-3-5-into-gpa-4-0-ceac2a977135)
+- [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+- [Must read: the 100 most cited AI papers in 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022)
+- [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses](https://openai.com/product/gpt-4)
+- [5 ways GPT-4 outsmarts ChatGPT](https://techcrunch.com/2023/03/14/5-ways-gpt-4-outsmarts-chatgpt/)
+-------------------
+
+
+------------
 
 
