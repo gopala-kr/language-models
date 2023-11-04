@@ -56,6 +56,7 @@
 - [Data-centric AI: Perspectives and Challenges](https://arxiv.org/pdf/2301.04819.pdf)
 - [Stanford: The AI Index Report - 2023](https://aiindex.stanford.edu/report/)
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 ---------------
 
