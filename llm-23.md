@@ -176,6 +176,16 @@
 --------
 ![Fpublic%2Fimages%2F3f30e1f6-c9b4](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f30e1f6-c9b4-4fac-ad4e-4bab336449ab_6000x4563.png)
 
+---------------
+
+![FuzkXr4aUAI35H_](https://pbs.twimg.com/media/FuzkXr4aUAI35H_?format=jpg&name=large)
+----------
+[One Small Step for Generative AI, One Giant Leap for AGI: A Complete Survey on ChatGPT in AIGC Era](https://www.researchgate.net/publication/369618942_One_Small_Step_for_Generative_AI_One_Giant_Leap_for_AGI_A_Complete_Survey_on_ChatGPT_in_AIGC_Era)
+
+
+![a-complete-survey-on-chatgpt-one-small-step-for-generative-ai-one-giant-leap-for-agi](https://global.discourse-cdn.com/business7/uploads/hellohellohello/original/2X/3/3ff3c727564799050eca569c567e405c20b53c00.png)
+
+-----------
 
 
 ------------
