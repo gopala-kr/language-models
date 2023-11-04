@@ -186,6 +186,19 @@
 ![a-complete-survey-on-chatgpt-one-small-step-for-generative-ai-one-giant-leap-for-agi](https://global.discourse-cdn.com/business7/uploads/hellohellohello/original/2X/3/3ff3c727564799050eca569c567e405c20b53c00.png)
 
 -----------
+![aayIsMNoOuWMVkzmyzpvLg](https://miro.medium.com/v2/resize:fit:828/format:webp/1*aayIsMNoOuWMVkzmyzpvLg.png)
+
+-----------
+![gL4ym0ZAyIDWJ18cJxIA](https://miro.medium.com/v2/resize:fit:720/format:webp/1*7-gL4ym0ZAyIDWJ18cJxIA.png)
+-----------
+
+![b73d755227f110fe3eed35f060e2c1d579554cdc](https://i.redd.it/some-ultra-modern-generative-ai-v0-88z1hkzsq7ba1.png?s=b73d755227f110fe3eed35f060e2c1d579554cdc)
+
+-----------
+![FnSADTIXwAAWUhd](https://pbs.twimg.com/media/FnSADTIXwAAWUhd?format=jpg&name=medium)
+--------
+![mjrXQfjwg](https://lh3.googleusercontent.com/0Xc9oyUMbiuW7MzMvU2B1U7yN-FM1F-mDj-J-ySpHTotuGscInbHJtdhWRAZM5betKSJreLDx-cW34IxU8KjnmQ1IsYDB6QAOyJz2Q6_675KlPFryfJFA-QNGnajiGc2tHjZi2DABdajo-mjrXQfjwg)
+
 
 
 ------------
