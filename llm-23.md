@@ -33,4 +33,10 @@
 - [Accelerating LLM Inference by Enabling Intermediate Layer Decoding](https://arxiv.org/pdf/2310.18581.pdf)
 - [Reinforcement Learning for Generative AI: A Survey](https://arxiv.org/pdf/2308.14328.pdf)
 - [A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT](https://arxiv.org/pdf/2303.04226.pdf)
+- [A survey of Generative AI Applications](https://arxiv.org/pdf/2306.02781.pdf)
+- [A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material](https://arxiv.org/pdf/2304.01565.pdf)
+- [A Survey on Audio Diffusion Models: Text To Speech Synthesis and Enhancement in Generative AI](https://arxiv.org/pdf/2303.13336.pdf)
+- [Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training](https://arxiv.org/pdf/2305.13689.pdf)
+- [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/pdf/2303.11717.pdf)
+- [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arxiv.org/pdf/2305.06131.pdf)
 
