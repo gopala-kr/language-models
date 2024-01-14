@@ -59,6 +59,7 @@
 - [Chief Justice Roberts casts a wary eye on AI in the courts](https://cur.at/lGICCpG?m=web)
 - [AI stirs privacy challenges for schools](https://cur.at/emWtpRf?m=web)
 - [Kepler's Humanoid Robot Makes Grand Debut at CES](https://cur.at/K2wc6gZ?m=web)
+- [How do you teach a robot dog new tricks?](https://cur.at/pCJz8gC?m=web)
 
 --------------
 ---------------
