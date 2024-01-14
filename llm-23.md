@@ -63,6 +63,7 @@
 - [Google wrote a ‘Robot Constitution’ to make sure its new AI droids won’t kill us](https://cur.at/FCYMt6e?m=web)
 - [A Brief History of Large Language Models](https://cur.at/huKLkni?m=web)
 - [The use of deep learning for phase recovery](https://cur.at/xCGdw0e?m=web)
+- [Deep causal speech enhancement and recognition using efficient long-short term memory Recurrent Neural Network](https://cur.at/swg7sOb?m=web)
 
 --------------
 ---------------
