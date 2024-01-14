@@ -53,7 +53,7 @@
 - [Art that can be easily copied by AI is ‘meaningless’, says Ai Weiwei](https://cur.at/XOIJkkN?m=web)
 - [OpenAI’s custom GPT Store is now open for business](https://cur.at/cXwA8NT?m=web)
 - [AI-powered Medical Sample Image Validation for Better Analysis and Diagnosis](https://cur.at/RPJtIbp?m=web)
-
+- [GPT-4 Turbo now powers Microsoft Copilot.](https://cur.at/BVaKfzr?m=web)
 
 
 --------------
