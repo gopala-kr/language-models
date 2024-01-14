@@ -51,6 +51,7 @@
 ----------------
 - [Amazon turns to AI to help customers find clothes that fit when shopping online](https://cur.at/lI1Abyq?m=web)
 - [Art that can be easily copied by AI is ‘meaningless’, says Ai Weiwei](https://cur.at/XOIJkkN?m=web)
+- [OpenAI’s custom GPT Store is now open for business](https://cur.at/cXwA8NT?m=web)
 
 
 
