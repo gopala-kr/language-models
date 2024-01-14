@@ -69,6 +69,11 @@
 - [Tech Trends 2024: AI and electric vehicle deals](https://cur.at/2bKiXkm?m=web)
 - [Talking to Animals using AI](https://cur.at/CWnzWc8?m=web)
 - [Apple explores AI deals with news publishers](https://cur.at/s2BiFDF?m=web)
+- [The Evolution Of AI Chatbots For Finance And Accounting](https://cur.at/3qcFCnn?m=web)
+- [The Looming Leviathan: AI Ethics and the Reshaping of Our World](https://cur.at/Fh0RxET?m=web)
+- [Relax, humanoid robots aren't coming for your job just yet](https://cur.at/5zkooid?m=web)
+- [Robotics for Kids: The Future With AI and Robotics Education](https://cur.at/t6ymKCz?m=web)
+- [A weekly selection of Christmas robot videos](https://cur.at/aI2YtqY?m=web)
 
 --------------
 ---------------
