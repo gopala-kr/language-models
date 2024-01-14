@@ -74,6 +74,9 @@
 - [Relax, humanoid robots aren't coming for your job just yet](https://cur.at/5zkooid?m=web)
 - [Robotics for Kids: The Future With AI and Robotics Education](https://cur.at/t6ymKCz?m=web)
 - [A weekly selection of Christmas robot videos](https://cur.at/aI2YtqY?m=web)
+- [A transformer based method for Melanoma and Nonmelanoma classification](https://cur.at/2NNIGfu?m=web)
+- [Shortcut Learning of LLMs in NLP](https://cur.at/9EacEaa?m=web)
+- [The story behind the Telugu SLM ‘Chandamama Kathalu’](https://cur.at/poI3kud?m=web)
 
 --------------
 ---------------
