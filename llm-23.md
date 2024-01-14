@@ -48,6 +48,11 @@
 - [RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/pdf/2309.00810.pdf)
 - [DreamTeacher: Pretraining Image Backbones with Deep Generative Models](https://arxiv.org/pdf/2307.07487.pdf)
 
+----------------
+- [Amazon turns to AI to help customers find clothes that fit when shopping online](https://cur.at/lI1Abyq?m=web)
+
+
+
 
 --------------
 ---------------
