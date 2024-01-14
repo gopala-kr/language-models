@@ -56,6 +56,7 @@
 - [GPT-4 Turbo now powers Microsoft Copilot.](https://cur.at/BVaKfzr?m=web)
 - [AI-Generated George Carlin Drops Comedy Special That Daughter Speaks Out Against: ‘No Machine Will Ever Replace His Genius’](https://cur.at/3zDSdYV?m=web)
 - [Why Do We Need Ethical Frameworks and Regulation for AI?](https://cur.at/8zuxGzc?m=web)
+- [Chief Justice Roberts casts a wary eye on AI in the courts](https://cur.at/lGICCpG?m=web)
 
 --------------
 ---------------
