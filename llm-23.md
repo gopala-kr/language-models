@@ -66,6 +66,9 @@
 - [Deep causal speech enhancement and recognition using efficient long-short term memory Recurrent Neural Network](https://cur.at/swg7sOb?m=web)
 - [AI & Big Data Expo: Ethical AI integration and future trends](https://cur.at/syFULwS?m=web)
 - [The top 10 people in AI hardware](https://cur.at/uBFtIq1?m=web)
+- [Tech Trends 2024: AI and electric vehicle deals](https://cur.at/2bKiXkm?m=web)
+- [Talking to Animals using AI](https://cur.at/CWnzWc8?m=web)
+- [Apple explores AI deals with news publishers](https://cur.at/s2BiFDF?m=web)
 
 --------------
 ---------------
