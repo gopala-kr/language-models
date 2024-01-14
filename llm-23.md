@@ -64,6 +64,8 @@
 - [A Brief History of Large Language Models](https://cur.at/huKLkni?m=web)
 - [The use of deep learning for phase recovery](https://cur.at/xCGdw0e?m=web)
 - [Deep causal speech enhancement and recognition using efficient long-short term memory Recurrent Neural Network](https://cur.at/swg7sOb?m=web)
+- [AI & Big Data Expo: Ethical AI integration and future trends](https://cur.at/syFULwS?m=web)
+- [The top 10 people in AI hardware](https://cur.at/uBFtIq1?m=web)
 
 --------------
 ---------------
