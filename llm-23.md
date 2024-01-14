@@ -61,6 +61,7 @@
 - [Kepler's Humanoid Robot Makes Grand Debut at CES](https://cur.at/K2wc6gZ?m=web)
 - [How do you teach a robot dog new tricks?](https://cur.at/pCJz8gC?m=web)
 - [Google wrote a ‘Robot Constitution’ to make sure its new AI droids won’t kill us](https://cur.at/FCYMt6e?m=web)
+- [A Brief History of Large Language Models](https://cur.at/huKLkni?m=web)
 
 --------------
 ---------------
