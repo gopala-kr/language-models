@@ -58,6 +58,7 @@
 - [Why Do We Need Ethical Frameworks and Regulation for AI?](https://cur.at/8zuxGzc?m=web)
 - [Chief Justice Roberts casts a wary eye on AI in the courts](https://cur.at/lGICCpG?m=web)
 - [AI stirs privacy challenges for schools](https://cur.at/emWtpRf?m=web)
+- [Kepler's Humanoid Robot Makes Grand Debut at CES](https://cur.at/K2wc6gZ?m=web)
 
 --------------
 ---------------
