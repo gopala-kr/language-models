@@ -66,6 +66,20 @@
 -------------
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/bafde310-820d-4dab-9036-ecf8763bc44f)
 
+-----------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/274af361-1b58-4f6c-a76b-9be92c9f8eac)
+-------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/e591b690-81b8-4cb3-9654-cdc372820162)
+------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/86dba1de-64b1-4275-8524-8033517e1574)
+---------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/e230c129-1629-4b96-81d5-dd7e3a4386be)
+--------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/5d1d6aff-9e0f-4a6f-b971-9c07671133c5)
+
+
+
+
 
 
 
