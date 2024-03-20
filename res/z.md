@@ -37,6 +37,7 @@
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/1ca64676-7f7b-46d6-ac12-18b17d4f52d2)
 
 -------------
+---------
 
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/a34bb3ed-0a82-4a71-9d03-e964359421df)
 
@@ -45,15 +46,40 @@
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/4ee428e4-05f6-4b8d-a1fd-f6195f963508)
 
 -----------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/87278e89-0acb-4f27-aa8e-4fbe6beb7de8)
+
 -------------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/7e352901-5bf6-4a5b-b99f-0651cc2dfafc)
+
 -------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/32a34c83-9236-4bdc-8a52-e84cb4eec408)
+
 -------------------
+
+![image](https://github.com/gopala-kr/language-models/assets/4322266/36da63c9-e819-4fc8-92f3-d4e1055f2992)
+
 -----------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/7658ed20-e80b-4016-8fb9-9e6f9bd81624)
+
 -------------------
+
+![image](https://github.com/gopala-kr/language-models/assets/4322266/2f10df9a-a267-4a7b-b97e-9b8cfd21ebd9)
+
 -------------
+
+![image](https://github.com/gopala-kr/language-models/assets/4322266/d8c22884-ece1-4794-bcd9-77291e4ee4be)
+
 -------------------
+
+![image](https://github.com/gopala-kr/language-models/assets/4322266/07bf99af-b70b-43ae-97cf-b338541b8d3d)
+
 -----------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/f07a3979-74bf-474d-bba6-9405288905e5)
+
 -------------------
+
+![image](https://github.com/gopala-kr/language-models/assets/4322266/3dd736eb-7c24-46c8-83b7-658b0f2e5fc9)
+
 -------------
 -------------------
 -----------------
