@@ -1,5 +1,10 @@
 
+![image](https://github.com/gopala-kr/language-models/assets/4322266/bcffac65-fee9-442c-bcef-f1065bb77c58)
+---------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/6ab3c69f-c7e9-4242-a8c2-10c89146bd09)
 
+
+--------------
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/21f6a244-1be4-4862-89ec-06733f05b1fe)
 
 ------------
