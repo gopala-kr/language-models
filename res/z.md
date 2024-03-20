@@ -30,6 +30,15 @@
 -------------
 ![image](https://github.com/gopala-kr/language-models/assets/4322266/35c651de-8f70-42ee-99d2-3f310aa0d600)
 
+--------------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/239f3ee4-a87a-4a1a-aeb4-880a9d04478d)
+
+---------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/e6010fcf-bdb3-471c-a740-ed4221bd9317)
+
+----------
+![image](https://github.com/gopala-kr/language-models/assets/4322266/9bc794bb-25fa-4f29-94ab-ee846d9a3bdc)
+
 
 ----------------------
 ------------
